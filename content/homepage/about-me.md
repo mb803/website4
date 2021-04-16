@@ -1,13 +1,18 @@
 ---
-title: "About Me"
-weight: 3
+title: About Me
+weight: "3"
 header_menu: true
----
 
+---
 ![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
-##### Professionel Experience
+##### About Me
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+Molly Brown, M.S. CCC-SLP is a New York and New Jersey licensed and American Speech Hearing Association (ASHA) certified speech-language pathologist. She received both her Bachelor’s degree in Speech Language Pathology and Audiology and her Master’s degree in Speech Language Pathology at Ithaca College in Ithaca, NY.
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+Molly has experience providing speech and language therapy in a variety of settings including teletherapy, schools, outpatient clinics, and in client’s homes. She has provided assessment and intervention to children and adults with language delays, autism, expressive and receptive language disorders, articulation and phonological disorders, social-pragmatic language disorders, selective mutism, fluency disorders, and cognitive impairments.
+
+Molly places a high value on continuing education and is trained in Prompts for Restructuring Oral/Muscular Phonetic Targets (PROMPT) and DTTC (Dynamic Temporal and Tactile Cueing) for clients with speech-sound disorders. She is also a certified Hanen instructor for It Takes Two to Talk, a course geared towards early language development and parent coaching.
+
+  
+In her free time, Molly can be found out for a run, playing fetch with her pup, or playing videogames with friends.
