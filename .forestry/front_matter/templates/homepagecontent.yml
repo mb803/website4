@@ -1,0 +1,13 @@
+---
+label: HomePageContent
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: number
+  name: weight
+  label: weight
+- type: boolean
+  name: header_menu
+  label: header_menu
