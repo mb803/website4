@@ -1,11 +1,13 @@
 ---
-title: "Contact"
-weight: 4
+title: Contact
+weight: "4"
 header_menu: true
+
 ---
+{{<icon class="fa fa-envelope">}} [mail@janedoe.com](mhbrownslp@gmail.com)
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-phone">}} [+49 1111 555555](tel:+201-588-3920)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+\~\~insert some way to check out my SLP instagram?\~\~
 
 Let us get in touch!
