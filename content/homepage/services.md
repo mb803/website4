@@ -4,7 +4,7 @@ weight: "2"
 header_menu: true
 
 ---
-Below you will find the various services we provide to children with different strengths and needs. If you are unsure where your child may fall in the below sections, schedule a complimentary 30 minute phone consultation below. 
+Below you will find the various services we provide to children with different strengths and needs. If you are unsure where your child may fall in the below sections, schedule a complimentary 20 minute phone consultation below. 
 
 ***
 
@@ -57,7 +57,7 @@ The key to effective treatment of stuttering is early detection and treatment th
 
 ## Phone Consultations
 
-We understand that making healthcare decisions can be overwhelming at times. Families often have many questions and concerns regarding whether a full evaluation is necessary or not. Because of this, we offer a commitment and stress-free 30 minute phone consultation to discuss whether or not a speech and language evaluation may be right for your family. **Contact us to schedule your free consultation today. _hyper link there?_**
+We understand that making healthcare decisions can be overwhelming at times. Families often have many questions and concerns regarding whether a full evaluation is necessary or not. Because of this, we offer a commitment and stress-free 20 minute phone consultation to discuss whether or not a speech and language evaluation may be right for your family. **Contact us to schedule your free consultation today. _hyper link there?_**
 
 Want to learn more about my services?
 
