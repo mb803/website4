@@ -4,7 +4,7 @@ weight: "2"
 header_menu: true
 
 ---
-Below you will find the various services we provide to children with different strengths and needs. If you are unsure where your child may fall in the below sections, schedule a complimentary 20 minute phone consultation below. 
+Below you will find the various services we provide to children with different strengths and needs. If you are unsure where your child may fall in the below sections, schedule a complimentary 20 minute phone consultation below.
 
 ***
 
@@ -12,7 +12,7 @@ Below you will find the various services we provide to children with different s
 
 Parent and caregiver coaching serves to empower parents with strategies to support communication within daily routines with your child. When equipped with the right tools, parents can foster a positive language-learning environment at home.
 
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
+![](/uploads/img_2530.jpg)
 
 ***
 
