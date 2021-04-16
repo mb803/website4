@@ -3,8 +3,6 @@ title: Welcome
 weight: "1"
 
 ---
-Hi Molly. I wrote this! This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+Welcome to MollyB SLP, where we provide individualized treatment that best fits the needs your child and your family.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
-
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+Speech and language services are currently offered in-home, virtually, or within the community (parks, libraries). In order to best serve each client, we work with parents to determine the most appropriate setting for the child’s needs. Secondary to covid-19 safety measures, we will be providing in-home speech therapy while wearing masks and gloves and carefully sanitizing all materials before and after each session. Virtual sessions will be conducted on Zoom and will offer the same high-quality care from the comfort of your home. Every session, whether in-person or online, is carefully planned to include interactive and engaging activities to ensure your child is making progress towards their goals.
