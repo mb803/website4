@@ -8,7 +8,7 @@ That is the important part, right? You want to know what I can do for you. This 
 
 ***
 
-## Early Language Development & Parent Coaching 
+## Early Language Development & Parent Coaching
 
 Parent and caregiver coaching serves to empower parents with strategies to support communication within daily routines with your child. When equipped with the right tools, parents can foster a positive language-learning environment at home.
 
@@ -18,14 +18,12 @@ Parent and caregiver coaching serves to empower parents with strategies to suppo
 
 ## Articulation and Phonological Therapy
 
-Do you or others have a hard time understanding your child?
-
 We know that it can be frustrating when your child isn’t able to be easily understood when sharing wonderful stories about their day, interests, and dreams.
 
 * A child with an articulation disorder may have difficulty with one or more specific sounds that impact their overall ability to be effectively understood.
 * A child with a phonological disorder may have difficulty producing patterns of speech sounds. For example, the phonological process of “cluster reduction”, refers to a child who typically says 1 sound instead of 2 when consonants are next to teacher; a child who says “top” for stop or “sick” for stick would be identified with this phonological pattern.
 
-As children grow up, their sound development follows a typical hierarchy; it is expected for young children to make some speech errors as they grow. We can assess your child for their sound-production in words, sentences, and conversation to determine if they would benefit from therapeutic services. 
+As children grow up, their sound development follows a typical hierarchy; it is expected for young children to make some speech errors as they grow. We can assess your child for their sound-production in words, sentences, and conversation to determine if they would benefit from therapeutic services.
 
 ***
 
@@ -35,7 +33,7 @@ As children grow up, their sound development follows a typical hierarchy; it is 
 * Expressive language is what we say. This can involve vocabulary, use of appropriate grammar, telling stories, answering questions, and more.
 * “In order to have the most effective treatment possible, it is important to diagnose and treat language disorders as soon as possible. If you find your child is having difficulty expressing or understanding language, please schedule a free 30 minute consultation today to see if we can be of help to you and your family.”
 
-To have the most effective treatment possible, it is best to diagnose and treat language disorders as early as possible. If you find your child is having difficulty expressing themselves or understanding language, we can help guide you through the next steps to take. 
+To have the most effective treatment possible, it is best to diagnose and treat language disorders as early as possible. If you find your child is having difficulty expressing themselves or understanding language, we can help guide you through the next steps to take.
 
 ***
 
@@ -50,10 +48,16 @@ Childhood apraxia of speech is a motor speech disorder characterized by inconsis
 Fluency disorders can include stuttering and cluttering.
 
 * Stuttering is common in young children as they are learning to speak, however if you notice your child getting stuck on sounds or repeating syllables and whole words, we may be able to help.
-* Cluttering is characterized by rapid speech paired with atypical pauses, inconsistent omissions of words or phrases, and inconsistent disfluencies, all resulting in a greater difficulty to be understood by others. 
+* Cluttering is characterized by rapid speech paired with atypical pauses, inconsistent omissions of words or phrases, and inconsistent disfluencies, all resulting in a greater difficulty to be understood by others.
 * The key to effective treatment of stuttering is early detection and therapy,.
 
-The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching and home-based approach. 
+The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching and home-based approach.
+
+***
+
+## Phone Consultations
+
+We understand that making healthcare decisions can be overwhelming at times. Families often have many questions and concerns regarding whether a full evaluation is necessary or not. Because of this, we offer a commitment and stress-free 30 minute phone consultation to discuss whether or not a speech and language evaluation may be right for your family. **Contact us to schedule your free consultation today. _hyper link there?_**
 
 Want to learn more about my services?
 
