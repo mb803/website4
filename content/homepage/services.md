@@ -12,7 +12,7 @@ Below you will find the various services we provide to children with different s
 
 Parent and caregiver coaching serves to empower parents with strategies to support communication within daily routines with your child. When equipped with the right tools, parents can foster a positive language-learning environment at home.
 
-![](/uploads/img_2530.jpg)
+![](/uploads/pexels-gustavo-fring-3912387-1.jpg)
 
 ***
 
