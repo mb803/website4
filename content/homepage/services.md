@@ -50,7 +50,6 @@ Fluency disorders can include stuttering and cluttering.
 
 * Stuttering is common in young children as they are learning to speak, however if you notice your child getting stuck on sounds or repeating syllables and whole words, we may be able to help.
 * Cluttering is characterized by rapid speech paired with atypical pauses, inconsistent omissions of words or phrases, and inconsistent disfluencies, all resulting in a greater difficulty to be understood by others.
-* The key to effective treatment of stuttering is early detection and therapy,.
 
 The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching and home-based approach.
 
@@ -59,7 +58,3 @@ The key to effective treatment of stuttering is early detection and treatment th
 ## Phone Consultations
 
 We understand that making healthcare decisions can be overwhelming at times. Families often have many questions and concerns regarding whether a full evaluation is necessary or not. Because of this, we offer a commitment and stress-free 20 minute phone consultation to discuss whether or not a speech and language evaluation may be right for your family. **Contact us to schedule your free consultation today. _hyper link there?_**
-
-Want to learn more about my services?
-
-Check out [this page](services) I created. It carries a lot more details...
