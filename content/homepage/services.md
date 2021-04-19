@@ -36,6 +36,8 @@ As children grow up, their sound development follows a typical hierarchy; it is 
 
 To have the most effective treatment possible, it is best to diagnose and treat language disorders as early as possible. If you find your child is having difficulty expressing themselves or understanding language, we can help guide you through the next steps to take.
 
+![](/uploads/pexels-august-de-richelieu-4260325.jpg)
+
 ***
 
 ## **Apraxia and Motor Speech Disorders**
@@ -52,6 +54,8 @@ Fluency disorders can include stuttering and cluttering.
 * Cluttering is characterized by rapid speech paired with atypical pauses, inconsistent omissions of words or phrases, and inconsistent disfluencies, all resulting in a greater difficulty to be understood by others.
 
 The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching and home-based approach.
+
+![](/uploads/pexels-julia-m-cameron-4145032.jpg)
 
 ***
 
