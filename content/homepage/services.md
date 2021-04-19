@@ -12,7 +12,7 @@ Below you will find the various services we provide to children with different s
 
 Parent and caregiver coaching serves to empower parents with strategies to support communication within daily routines with your child. When equipped with the right tools, parents can foster a positive language-learning environment at home.
 
-![](/uploads/pexels-gustavo-fring-3912387-1.jpg)
+![](/uploads/pexels-andrea-piacquadio-3818963.jpg)
 
 ***
 
@@ -25,7 +25,7 @@ We know that it can be frustrating when your child isn’t able to be easily und
 
 As children grow up, their sound development follows a typical hierarchy; it is expected for young children to make some speech errors as they grow. We can assess your child for their sound-production in words, sentences, and conversation to determine if they would benefit from therapeutic services.
 
-\** insert pic of me with speech sound card** 
+\** insert pic of me with speech sound card**
 
 ***
 
