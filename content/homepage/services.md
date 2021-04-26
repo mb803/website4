@@ -10,7 +10,7 @@ Below you will find the various services we provide to children with different s
 
 ## Early Language Development & Parent Coaching
 
-Parent and caregiver coaching serves to empower parents with strategies to support communication within daily routines with your child who may have a language delay. When equipped with the right tools, parents can foster a positive language-learning environment at home. In our sessions, we will work together, as a team, to discuss, practice, and plan for using different strategies in daily routines with your little ones. 
+Parent and caregiver coaching serves to empower parents with strategies to support communication within daily routines with your child who may have a language delay. When equipped with the right tools, parents can foster a positive language-learning environment at home. In our sessions, we will work together, as a team, to discuss, practice, and plan for using different strategies in daily routines with your little ones.
 
 ![](/uploads/pexels-andrea-piacquadio-3818963.jpg)
 
@@ -25,7 +25,7 @@ We know that it can be frustrating when your child isn’t able to be easily und
 
 As children grow up, their sound development follows a typical hierarchy; it is expected for young children to make some speech errors as they grow. We can assess your child for their sound-production in words, sentences, and conversation to determine if they would benefit from therapeutic services.
 
-\** insert pic of me with speech sound card**
+![](/uploads/webstie1-1.jpg)
 
 ***
 
@@ -36,13 +36,15 @@ As children grow up, their sound development follows a typical hierarchy; it is 
 
 To have the most effective treatment possible, it is best to diagnose and treat language disorders as early as possible. If you find your child is having difficulty expressing themselves or understanding language, we can help guide you through the next steps to take.
 
-![](/uploads/pexels-august-de-richelieu-4260325.jpg)
+![](/uploads/img_5550.jpg)
 
 ***
 
 ## **Apraxia and Motor Speech Disorders**
 
 Childhood apraxia of speech is a motor speech disorder characterized by inconsistent errors, and difficulty putting sounds and syllables into longer words and utterances. Other signs can include: limited babbling as a baby, limited consonants and vowel sounds, and oral groping. Treatment is highly individualized and based on the principles of motor learning.
+
+![](/uploads/pexels-august-de-richelieu-4260325.jpg)
 
 ***
 
