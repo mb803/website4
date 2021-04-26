@@ -10,7 +10,7 @@ Below you will find the various services we provide to children with different s
 
 ## Early Language Development & Parent Coaching
 
-Parent and caregiver coaching serves to empower parents with strategies to support communication within daily routines with your child. When equipped with the right tools, parents can foster a positive language-learning environment at home.
+Parent and caregiver coaching serves to empower parents with strategies to support communication within daily routines with your child who may have a language delay. When equipped with the right tools, parents can foster a positive language-learning environment at home. In our sessions, we will work together, as a team, to discuss, practice, and plan for using different strategies in daily routines with your little ones. 
 
 ![](/uploads/pexels-andrea-piacquadio-3818963.jpg)
 
@@ -20,8 +20,8 @@ Parent and caregiver coaching serves to empower parents with strategies to suppo
 
 We know that it can be frustrating when your child isn’t able to be easily understood when sharing wonderful stories about their day, interests, and dreams.
 
-* A child with an articulation disorder may have difficulty with one or more specific sounds that impact their overall ability to be effectively understood.
-* A child with a phonological disorder may have difficulty producing patterns of speech sounds. For example, the phonological process of “cluster reduction”, refers to a child who typically says 1 sound instead of 2 ; a child who says “top” for 'stop' or “sick” for 'stick' would be identified with this phonological pattern.
+* A child with an **articulation disorder** may have difficulty with one or more specific sounds that impact their overall ability to be effectively understood.
+* A child with a **phonological disorder** may have difficulty producing patterns of speech sounds. For example, the phonological process of “cluster reduction” refers to a child who typically says 1 sound instead of 2 ; a child who says “top” for 'stop' or “sick” for 'stick' would be identified with this phonological pattern.
 
 As children grow up, their sound development follows a typical hierarchy; it is expected for young children to make some speech errors as they grow. We can assess your child for their sound-production in words, sentences, and conversation to determine if they would benefit from therapeutic services.
 
@@ -31,8 +31,8 @@ As children grow up, their sound development follows a typical hierarchy; it is 
 
 ## **Receptive and Expressive Language Disorders**
 
-* Receptive language is our understanding of language. This can involve understanding directions in the classroom, understanding a story a classmate shares or a teacher reads aloud, and learning what new words mean.
-* Expressive language is how use language to communicate with others. This can involve vocabulary, use of appropriate grammar, telling stories, answering questions, and more.
+* **Receptive language** is our understanding of language. This can involve understanding directions in the classroom, understanding a story a classmate shares or a teacher reads aloud, and learning what new words mean.
+* **Expressive language** is how we use language to communicate with others. This can involve vocabulary, use of appropriate grammar, telling stories, answering questions, and more.
 
 To have the most effective treatment possible, it is best to diagnose and treat language disorders as early as possible. If you find your child is having difficulty expressing themselves or understanding language, we can help guide you through the next steps to take.
 
@@ -50,8 +50,8 @@ Childhood apraxia of speech is a motor speech disorder characterized by inconsis
 
 Fluency disorders can include stuttering and cluttering.
 
-* Stuttering is common in young children as they are learning to speak, however if you notice your child getting stuck on sounds or repeating syllables and whole words, we may be able to help.
-* Cluttering is characterized by rapid speech paired with atypical pauses, inconsistent omissions of words or phrases, and inconsistent disfluencies, all resulting in a greater difficulty to be understood by others.
+* **Stuttering** is common in young children as they are learning to speak, however, if you notice your child getting stuck on sounds or repeating syllables and whole words, we may be able to help.
+* **Cluttering** is characterized by rapid speech paired with atypical pauses, inconsistent omissions of words or phrases, and inconsistent disfluencies, all resulting in a greater difficulty to be understood by others.
 
 The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching and home-based approach.
 
