@@ -11,3 +11,5 @@ fields:
 - type: boolean
   name: header_menu
   label: header_menu
+pages:
+- content/zac-test.md
