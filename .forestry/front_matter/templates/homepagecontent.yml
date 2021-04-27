@@ -12,4 +12,5 @@ fields:
   name: header_menu
   label: header_menu
 pages:
+- content/parent-coaching.md
 - content/zac-test.md
