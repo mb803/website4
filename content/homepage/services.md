@@ -51,6 +51,6 @@ The key to effective treatment of stuttering is early detection and treatment th
 
 ## Phone Consultations
 
-We understand that making healthcare decisions can be overwhelming at times. Families often have many questions and concerns regarding whether a full evaluation is necessary or not. 
+We understand that making healthcare decisions can be overwhelming at times. Families often have many questions and concerns regarding whether a full evaluation is necessary or not.
 
-Because of this, we offer a commitment and stress-free 20 minute phone consultation to discuss whether or not a speech and language evaluation may be right for your family.[ **Contact us to schedule your free consultation today.**](/contact) 
+Because of this, we offer a commitment and stress-free 20 minute phone consultation to discuss whether or not a speech and language evaluation may be right for your family. Contact us to schedule your free consultation today. **<< HYPERLINK?** 
