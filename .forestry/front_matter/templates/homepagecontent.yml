@@ -12,6 +12,7 @@ fields:
   name: header_menu
   label: header_menu
 pages:
+- content/apraxia-and-motor-speech-disorders.md
 - content/articulation-and-phonology.md
 - content/language.md
 - content/parent-coaching.md
