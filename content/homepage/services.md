@@ -26,19 +26,19 @@ Articulation and Phonological treatment focuses on helping your child say specif
 
 ***
 
-## **Receptive and Expressive Language Disorders**
-
-Language-based therapy can target all aspects of language skills expected by children including: phonological awareness and pre-literacy skills, sequencing, understanding and retelling of stories, asking and answering questions, use of appropriate grammatical markers, and more.
-
-[Learn More](/Receptive-and-Expressive-Language)
-
-***
-
 ## **Apraxia and Motor Speech Disorders**
 
 Treatment of motor speech disorders, including childhood apraxia of speech (CAS) is highly individualized and based on the principles of motor learning.
 
 [Learn More](apraxia-and-motor-speech-disorders)
+
+***
+
+## **Receptive and Expressive Language Disorders**
+
+Language-based therapy can target all aspects of language skills expected by children including: phonological awareness and pre-literacy skills, sequencing, understanding and retelling of stories, asking and answering questions, use of appropriate grammatical markers, and more.
+
+[Learn More](/Receptive-and-Expressive-Language)
 
 ***
 
@@ -53,4 +53,4 @@ The key to effective treatment of stuttering is early detection and treatment th
 
 We understand that making healthcare decisions can be overwhelming at times. Families often have many questions and concerns regarding whether a full evaluation is necessary or not.
 
-Because of this, we offer a commitment and stress-free 20 minute phone consultation to discuss whether or not a speech and language evaluation may be right for your family. Contact us to schedule your free consultation today. **<< HYPERLINK?** 
+Because of this, we offer a commitment and stress-free 20 minute phone consultation to discuss whether or not a speech and language evaluation may be right for your family. Contact us to schedule your free consultation today. **<< HYPERLINK?**
