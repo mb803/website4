@@ -1,7 +1,6 @@
 +++
-draft = true
 header_menu = false
-title = "Artic and Phono"
+title = "Articulation and Phonology"
 weight = 3
 
 +++
