@@ -1,5 +1,4 @@
 +++
-draft = true
 header_menu = false
 title = "Apraxia and Motor Speech Disorders"
 weight = 1
