@@ -1,7 +1,7 @@
 +++
 header_menu = false
 title = "Fluency Disorders"
-weight = 2
+weight = 3
 
 +++
 Fluency disorders can include stuttering and cluttering.
