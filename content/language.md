@@ -1,5 +1,5 @@
 +++
-header_menu = true
+header_menu = false
 title = "Receptive and Expressive Language"
 weight = 3
 
