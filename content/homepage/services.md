@@ -36,22 +36,16 @@ Language-based therapy can target all aspects of language skills expected by chi
 
 ## **Apraxia and Motor Speech Disorders**
 
-Childhood apraxia of speech is a motor speech disorder characterized by inconsistent errors, and difficulty putting sounds and syllables into longer words and utterances. Other signs can include: limited babbling as a baby, limited consonants and vowel sounds, and oral groping. Treatment is highly individualized and based on the principles of motor learning.
+Treatment of motor speech disorders, commonly diagnosed as childhood apraxia of speech (CAS) is highly individualized and based on the principles of motor learning.
 
-![](/uploads/pexels-august-de-richelieu-4260325.jpg)
+[Learn More](apraxia-and-motor-speech-disorders)
 
 ***
 
 ## Fluency Disorders
 
-Fluency disorders can include stuttering and cluttering.
-
-* **Stuttering** is common in young children as they are learning to speak, however, if you notice your child getting stuck on sounds or repeating syllables and whole words, we may be able to help.
-* **Cluttering** is characterized by rapid speech paired with atypical pauses, inconsistent omissions of words or phrases, and inconsistent disfluencies, all resulting in a greater difficulty to be understood by others.
-
-The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching and home-based approach.
-
-![](/uploads/pexels-julia-m-cameron-4145032.jpg)
+The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching and home-based approach.  
+[Learn More](/Fluency-Disorders)
 
 ***
 
