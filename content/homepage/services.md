@@ -36,7 +36,7 @@ Language-based therapy can target all aspects of language skills expected by chi
 
 ## **Apraxia and Motor Speech Disorders**
 
-Treatment of motor speech disorders, commonly diagnosed as childhood apraxia of speech (CAS) is highly individualized and based on the principles of motor learning.
+Treatment of motor speech disorders, including childhood apraxia of speech (CAS) is highly individualized and based on the principles of motor learning.
 
 [Learn More](apraxia-and-motor-speech-disorders)
 
