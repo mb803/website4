@@ -1,7 +1,7 @@
 +++
 header_menu = false
 title = "Receptive and Expressive Language"
-weight = 2
+weight = 4
 
 +++
 * **Receptive language** is our understanding of language. This can involve understanding directions in the classroom, understanding a story a classmate shares or a teacher reads aloud,  learning what new words mean, phonological awareness skills, and more.
