@@ -10,7 +10,9 @@ Below you will find the various services we provide to children with different s
 
 ## Early Language Development & Parent Coaching
 
-Parent and caregiver coaching is a team-driven approach to empower parents with strategies to support communication within daily routines with your child who may have a language delay.  
+Parent and caregiver coaching is a team-driven approach to empower parents with strategies to support communication within daily routines with your child who may have a language delay.
+
+[Learn More  ](/parent-coaching)
 
 ***
 
