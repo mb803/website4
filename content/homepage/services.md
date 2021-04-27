@@ -18,7 +18,7 @@ Parent and caregiver coaching is a team-driven approach to empower parents with 
 
 ## Articulation and Phonological Therapy
 
-Articulation and Phonological treatment focuses on helping your child increase their ability to be understood by others by working on specific sounds and or patterns of speech that they may have difficulty with.
+Articulation and Phonological treatment focuses on helping your child say specific sounds and/or patterns of speech so they can be easily understood by others.
 
 [Learn More](/artic-and-phono)
 
@@ -28,12 +28,7 @@ Articulation and Phonological treatment focuses on helping your child increase t
 
 ## **Receptive and Expressive Language Disorders**
 
-* **Receptive language** is our understanding of language. This can involve understanding directions in the classroom, understanding a story a classmate shares or a teacher reads aloud, and learning what new words mean.
-* **Expressive language** is how we use language to communicate with others. This can involve vocabulary, use of appropriate grammar, telling stories, answering questions, and more.
-
-To have the most effective treatment possible, it is best to diagnose and treat language disorders as early as possible. If you find your child is having difficulty expressing themselves or understanding language, we can help guide you through the next steps to take.
-
-![](/uploads/img_5550.jpg)
+Language-based therapy can target all aspects of language skills expected by children including: phonological awarenes and pre-literacy skills, sequencing, understanding and retelling of stories, asking and answering wh-questions, use of appropriate grammatical markers, and more. 
 
 ***
 
