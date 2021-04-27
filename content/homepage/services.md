@@ -18,9 +18,9 @@ Parent and caregiver coaching is a team-driven approach to empower parents with 
 
 ## Articulation and Phonological Therapy
 
-Articulation and Phonological treatment focuses on helping your child increase their ability to be understood by others by working on specific sounds and or patterns of speech that they may have difficulty with. 
+Articulation and Phonological treatment focuses on helping your child increase their ability to be understood by others by working on specific sounds and or patterns of speech that they may have difficulty with.
 
-[Learn More]()
+[Learn More](/artic-and-phono)
 
 ![](/uploads/webstie1-1.jpg)
 
