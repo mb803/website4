@@ -12,5 +12,6 @@ fields:
   name: header_menu
   label: header_menu
 pages:
+- content/articulation-and-phonology.md
 - content/parent-coaching.md
 - content/zac-test.md
