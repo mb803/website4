@@ -28,7 +28,9 @@ Articulation and Phonological treatment focuses on helping your child say specif
 
 ## **Receptive and Expressive Language Disorders**
 
-Language-based therapy can target all aspects of language skills expected by children including: phonological awarenes and pre-literacy skills, sequencing, understanding and retelling of stories, asking and answering wh-questions, use of appropriate grammatical markers, and more. 
+Language-based therapy can target all aspects of language skills expected by children including: phonological awarenes and pre-literacy skills, sequencing, understanding and retelling of stories, asking and answering wh-questions, use of appropriate grammatical markers, and more.
+
+[Learn More](/Receptive-and-Expressive-Language)
 
 ***
 
