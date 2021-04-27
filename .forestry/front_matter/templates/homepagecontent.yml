@@ -13,5 +13,6 @@ fields:
   label: header_menu
 pages:
 - content/articulation-and-phonology.md
+- content/language.md
 - content/parent-coaching.md
 - content/zac-test.md
