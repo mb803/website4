@@ -78,3 +78,109 @@
   sizes="16x16"
   href="{{ "images/favicon-16x16.png" | absURL }}"
 />
+<style>
+  /*
+   * https://coolors.co/8ecae6-219ebc-023047-ffb703-fb8500
+   * light-blue: #8ecae6;
+   * primary-blue: #219ebc;
+   * primary-blue (hover): #1a7e96;
+   * dark-blue: #023047;
+   * light-orange: #ffb703;
+   * dark-orange: #fb8500;
+   */
+  #contact-form-container {
+    padding: 16px 0;
+  }
+
+  form label {
+    display: block;
+    margin-top: 16px;
+  }
+
+  form input[type="text"],
+  form input[type="email"],
+  form select {
+    min-height: 40px;
+  }
+
+  form textarea {
+    min-height: 80px;
+  }
+
+  form input, form textarea {
+    width: 100%;
+    margin-top: 8px;
+    border: 1px solid black;
+    border-radius: 6px;
+    outline: none;
+    padding-left: 8px;
+  }
+
+  a {
+    color: #fb8500;
+  }
+
+  a.btn,
+  form input[type="submit"] {
+    text-decoration: none;
+    background-color: #219ebc;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    color: white;
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 0;
+    overflow: visible;
+    padding: 10px 20px 10px 20px;
+    position: relative;
+    margin-top: 2rem;
+    cursor: pointer;
+    font-family: "Oswald", sans-serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+  }
+
+  a.btn:hover {
+    background: #1a7e96;
+    color: white;
+  }
+
+  a:hover {
+    color: #1a7e96;
+  }
+
+  a.fn-item {
+    color: #023047;
+  }
+  a.fn-item:hover {
+    color: black;
+  }
+  a.fn-item.active {
+    color: #fb8500;
+  }
+
+  /*
+   * dumb but it is after the a.btn so it can override the margin
+   */
+  form input[type="submit"] {
+    display: block;
+    max-width: 100px;
+    margin: 16px auto 0;
+    border: 1px solid transparent;
+  }
+
+  .post-holder {
+    background: white;
+    background: #f1f1f1;
+  }
+  .post-holder.odd {
+    background: #f1f1f1;
+    background: white;
+    color: black;
+  }
+
+  hr {
+    border-top: 1px solid #219ebc;
+  }
+</style>
