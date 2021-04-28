@@ -19,7 +19,7 @@ sections:
   label: Snippets
   create: all
   match: "**/*"
-  new_doc_ext: ".snippet"
+  new_doc_ext: snippet
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
