@@ -46,7 +46,7 @@ Language-based therapy can target all aspects of language skills expected by chi
 
 ## Fluency Disorders
 
-The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching and home-based approach.  
+The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching within a home-based approach.  
 [Learn More](/Fluency-Disorders)
 
 ***
