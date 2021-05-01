@@ -14,13 +14,13 @@ Below you will find the various services we provide to children with different s
 
 Parent and caregiver coaching is a team-driven approach to empower parents with strategies to support communication within daily routines with your child who may have a language delay.
 
-[Learn More](/parent-coaching)
+[Learn More](/early-language-development-and-parent-coaching)
 
 ***
 
 ## Articulation and Phonological Therapy
 
-Articulation and Phonological treatment focuses on helping your child say specific sounds and/or patterns of speech so they can be easily understood by others.
+Articulation and phonological treatment focuses on helping your child say specific sounds and/or patterns of speech so they can be easily understood by others.
 
 [Learn More](/articulation-and-phonology)
 
