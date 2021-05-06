@@ -40,14 +40,14 @@ Treatment of motor speech disorders, including childhood apraxia of speech (CAS)
 
 Language-based therapy can target all aspects of language skills expected by children including: phonological awareness and pre-literacy skills, sequencing, understanding and retelling of stories, asking and answering questions, use of appropriate grammatical markers, and more.
 
-[Learn More](/Receptive-and-Expressive-Language)
+[Learn More](/receptive-and-expressive-language-disorders)
 
 ***
 
 ## Fluency Disorders
 
 The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching within a home-based approach.  
-[Learn More](/Fluency-Disorders)
+[Learn More](/fluency-disorders)
 
 ***
 
