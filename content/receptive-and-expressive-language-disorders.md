@@ -9,6 +9,6 @@ weight = 3
 
 To have the most effective treatment possible, it is best to diagnose and treat language disorders as early as possible. If you find your child is having difficulty expressing themselves or understanding language, we can help guide you through the next steps to take.
 
-[Let's Get In Touch](/#let-s-get-in-touch)
+[Let's Get In Touch](/#lets-get-in-touch)
 
 ![](/uploads/img_5550.jpg)
