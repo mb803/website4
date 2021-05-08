@@ -11,6 +11,6 @@ Fluency disorders can include stuttering and cluttering.
 
 The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching within home-based approach.
 
-[Let's Get In Touch](/#lets-get-in-touch)
+[Let's Get In Touch](/#let-s-get-in-touch)
 
 ![](/uploads/pexels-julia-m-cameron-4145032.jpg)

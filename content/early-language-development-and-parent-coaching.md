@@ -10,6 +10,6 @@ Intervention will initially focus on developing the skills needed to be met befo
 
 In our sessions, we will work together, as a team, to discuss, practice, and plan for using different strategies in daily routines with your little ones.
 
-[Let's Get In Touch](/#lets-get-in-touch)
+[Let's Get In Touch](/#let-s-get-in-touch)
 
 ![](/uploads/pexels-andrea-piacquadio-3818963.jpg)
