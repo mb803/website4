@@ -11,4 +11,6 @@ We know that it can be frustrating when your child isn’t able to be easily und
 
 As children grow up, their sound development follows a typical hierarchy; it is expected for young children to make some speech errors as they grow. We can assess your child for their sound-production in words, sentences, and conversation to determine if they would benefit from therapeutic services.
 
+[Let's Get In Touch](/#lets-get-in-touch)
+
 ![](/uploads/use.jpg)
