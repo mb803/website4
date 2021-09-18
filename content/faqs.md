@@ -1,7 +1,7 @@
 +++
 draft = true
 header_menu = false
-title = "FAQs"
+title = "Frequently Asked Questions"
 weight = "3"
 
 +++
