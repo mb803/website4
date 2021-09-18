@@ -1,6 +1,6 @@
 +++
 header_menu = true
-title = "Frequently Asked Questions"
+title = "FAQs"
 weight = "3"
 
 +++
