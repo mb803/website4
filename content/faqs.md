@@ -22,13 +22,13 @@ weight = "2"
 * To help make this decision, we always begin with a complete assessment (unless you have already had one within the calendar year) to determine if therapy is needed.
 * Whether your child was determined eligible for therapy through Early Intervention or their school district services or not, we are here to provide additional support and to foster growth and development. The more support we can provide children the better.
 
-**How do I get started?**
-
-* [Let's get in touch.](/#let-s-get-in-touch) We will schedule a commitment-free complimentary phone consultation to determine whether we can be of assistance to your child and family.
-
 **How long are sessions?**
 
 * Therapy sessions are typically 30-45 minutes based on your child's individual needs.
+
+**How do I get started?**
+
+* We will schedule a commitment-free complimentary phone consultation to determine whether we can be of assistance to your child and family.
 
 **Do you have any additional questions unrelated to those above?**
 
