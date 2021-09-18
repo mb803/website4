@@ -1,5 +1,4 @@
 +++
-draft = true
 header_menu = true
 title = "FAQs"
 weight = "3"
