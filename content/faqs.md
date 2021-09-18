@@ -1,8 +1,8 @@
 +++
 draft = true
 header_menu = false
-title = "Frequently Asked Questions"
-weight = "3"
+title = "FAQs"
+weight = "2"
 
 +++
 **Do you take insurance?**
