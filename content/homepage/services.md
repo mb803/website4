@@ -46,7 +46,7 @@ Language-based therapy can target all aspects of language skills expected by chi
 
 ## Picky Eaters and Feeding Disorders
 
-Treatment for picky eaters and feeding disorders focuses on supporting your child through typical feeding development while also promoting a positive and joyful experience with all types of food. 
+Treatment for picky eaters and feeding disorders focuses on supporting your child through typical feeding development while also promoting a positive and joyful experience with all types of food.
 
 [Learn More](/picky-eaters-and-feeding-disorders)
 
