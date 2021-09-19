@@ -10,6 +10,6 @@ Babies and toddlers typically learn how to suck, bite, chew, and swallow food an
 
 We will work together through a team-based approach to best support your child by incorporating new strategies at home and by exploring new foods and textures through fun and engaging therapy sessions.
 
-[Let's Get In Touch]()
+[Let's Get In Touch](/#let-s-get-in-touch)
 
 ![](/uploads/pexels-any-lane-5727972.jpg)
