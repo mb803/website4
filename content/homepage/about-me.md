@@ -14,4 +14,6 @@ Molly has experience providing speech and language therapy in a variety of setti
 
 Molly places a high value on continuing education and is trained in Prompts for Restructuring Oral/Muscular Phonetic Targets (PROMPT) and DTTC (Dynamic Temporal and Tactile Cueing) for clients with speech-sound disorders. She is also a certified Hanen instructor for It Takes Two to Talk, a course geared towards early language development and parent coaching.
 
-In her free time, Molly can be found out for a run, playing fetch with her pup, or playing video games with friends.
+In her free time, Molly can be found out for a run, playing fetch with her pup, or playing video games with friends. 
+
+[Check us out on instagram](https://www.instagram.com/mollybslp/)
