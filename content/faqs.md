@@ -13,6 +13,10 @@ weight = "2"
 
 * Virtual sessions allows for an increased convenience of meeting with you and your child in a space where they are most comfortable. No need for you to leave the house, we will meet you right where you are. In our virtual sessions, we use a play-based approach to keep even the toddlers and those busy-movers motivated in a session.  Meeting virtually allows for an infinite amount of resources to be used at our fingertips and provides a safe-space for parent coaching for successful carryover of therapy techniques to your every day.
 
+**I live in (State), can you work with my child?**
+
+* I am presently licensed with New Jersey, New York, and Virginia. If you reside in any of these states, I am able to meet and work with both you and your child. 
+
 **Do you provide in-person sessions?**
 
 * We presently offer in-person visits on an as-needed basis within a limited coverage area. These sessions can take place in your home, your child's daycare, or in the local community (like the park or library).  Please reach out with any questions specific to your child or area.
