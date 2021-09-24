@@ -15,7 +15,7 @@ weight = "2"
 
 **I live in (State), can you work with my child?**
 
-* I am presently licensed with New Jersey, New York, and Virginia. If you reside in any of these states, I am able to meet and work with both you and your child.
+* We are presently licensed and able to work with clients in New Jersey, New York, and Virginia. 
 
 **Do you provide in-person sessions?**
 
