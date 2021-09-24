@@ -6,7 +6,7 @@ weight = "2"
 +++
 **Do you take insurance?**
 
-* We presently are presently a private-pay service provider. This means that we are considered "out of network" to your health insurance. Using an out of network, private pay provider allows you to get the support that best suits your child and family's needs, not limiting you to any health insurance plan policies.
+* We  are presently a private-pay service provider. This means that we are considered "out of network" to your health insurance. Using an out of network, private pay provider allows you to get the support that best suits your child and family's needs, not limiting you to any health insurance plan policies.
 * We are able to provide you with a "superbill" or invoice that can be submitted to your insurance company should qualify for and you choose to receive out of network benefits.
 
 **Why virtual sessions?**
@@ -15,7 +15,7 @@ weight = "2"
 
 **I live in (State), can you work with my child?**
 
-* I am presently licensed with New Jersey, New York, and Virginia. If you reside in any of these states, I am able to meet and work with both you and your child. 
+* I am presently licensed with New Jersey, New York, and Virginia. If you reside in any of these states, I am able to meet and work with both you and your child.
 
 **Do you provide in-person sessions?**
 
