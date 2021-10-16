@@ -15,7 +15,7 @@ weight = "2"
 
 **I live in (State), can you work with my child?**
 
-* We are presently licensed and able to work with clients in New Jersey, New York, and Virginia. 
+* We are presently licensed and able to work with clients in New Jersey, New York, and Virginia.
 
 **Do you provide in-person sessions?**
 
@@ -33,6 +33,10 @@ weight = "2"
 **How do I get started?**
 
 * We will schedule a commitment-free complimentary phone consultation to determine whether we can be of assistance to your child and family.
+
+**Where can I find more information?**
+
+* For more information, check out some of our blog pages and resources [here](/blog-pages). 
 
 **Do you have any additional questions unrelated to those above?**
 
