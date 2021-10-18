@@ -1,7 +1,7 @@
 +++
 draft = true
 header_menu = false
-title = "My child can't say R! "
+title = "The Dreaded R and other sounds"
 weight = nil
 
 +++
