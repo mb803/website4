@@ -36,7 +36,7 @@ weight = "2"
 
 **Where can I find more information?**
 
-* For more information, check out some of our blog pages and resources [here](/blog-pages). 
+* For more information, check out some of our blog pages and resources [here](/blog-pages).
 
 **Do you have any additional questions unrelated to those above?**
 
