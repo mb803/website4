@@ -6,7 +6,7 @@ weight = 1
 +++
 _Speech Language Pathologist, Speech Therapist, Speech Teacher, Feeding Therapist, SLP_… the list of  names we can be called is seemingly endless. Many are unsure of what to call us and more importantly, unsure of what we do and when to seek out our help.
 
-Formally speaking, a speech language pathologist (SLP) is a professional that diagnoses and treats people of all ages for speech, language, social, cognitive, and feeding disorders. We can work in a variety of settings: schools, private clinics, hospitals, in the house, rehabilitation centers, and more.
+Formally speaking, a speech language pathologist (SLP) is a professional that diagnoses and treats people of all ages for speech, language, social, cognitive, and feeding disorders within a variety of settings. 
 
 ## What does an SLP do?
 
@@ -22,9 +22,28 @@ As mentioned above, the scope of an SLP is very broad. Speech Language Therapist
 
 ## Who does a speech language pathologist work with?
 
-An SLP often works closely with other professionals within a team-based approach. Other professionals on a child's team can include:  occupational therapists (OT), physical therapists (PT), psychologists, teachers, pediatricians, ear, nose and throat doctors (ENTs), dentists, and orthodontists. Most often, a team-based approach with all professionals who work with a child leads to great progress.
+Speech Language Therapists can work with clients across the lifespan. This includes our littlest babies up to our beloved elderly population. There is no age minimum or limit to needing, receiving and benefitting from speech therapy. 
+
+Additionally, an SLP often works closely with other professionals within a team-based approach. Other professionals on a child's team can include:  occupational therapists (OT), physical therapists (PT), psychologists, teachers, pediatricians, ear, nose and throat doctors (ENTs), dentists, and orthodontists. Most often, a team-based approach with all professionals who work with a child leads to great progress.
 
 Most importantly, however, an SLP should be consistently collaborating with a child's family members. It is important to note that a child spends the majority of his or her day with their family members: mothers, fathers, siblings, grandparents, aunts, uncles, and other caretakers. It is vital that a speech therapist works closely with a client's family members to promote carryover of strategies and activities at home beyond the speech therapy sessions.
+
+## Where do SLPs work?
+
+As previously mentioned, speech therapists can work in a variety of settings:
+
+* Schools (public, private, and charter schools)
+* Daycare centers
+* Private clinics and office spaces
+* In the client's home 
+* Virtually
+* In-patient hospitals
+* Out-patient rehabilitative centers
+* Skilled Nursing Facilities (SNF)
+* Residential and non-residential health care facilities
+* Colleges and Universities
+
+Here at MollyBSLP, we primarily provide virtual speech therapy to families in Virginia, New York, and New Jersey. We have found that virtual speech sessions allow for increased convenience for families as well as improved family engagement in the child's therapies. We also, however, provide speech therapy at home in Northern New Jersey.  
 
 ## What should I look for in a speech therapist for my child?
 
