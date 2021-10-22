@@ -11,9 +11,8 @@ Formally speaking, a speech language pathologist (SLP) is a professional that di
 
 An SLP often works closely with other professionals including occupational therapists (OT), physical therapists (PT), psychologists, teachers, pediatricians, ear, nose and throat doctors (ENTs), dentists, and orthodontists. Most often, a team-based approach including all professionals and family members leads to great progress in our clients.
 
-Here at MollyBSLP, we specialize in working with babies, children,  adolescents, and teens on speech, language and feeding therapy. 
+Here at MollyBSLP, we specialize in working with babies, children,  adolescents, and teens on speech, language and feeding therapy.
 
-  
 Looking for more information on if your child may need speech therapy?
 
-Let's get in touch. 
+[Let's get in touch.](/#let-s-get-in-touch)
