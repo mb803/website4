@@ -13,6 +13,7 @@ fields:
   label: header_menu
 pages:
 - content/apraxia-and-motor-speech-disorders.md
+- content/artic.md
 - content/articulation-and-phonology.md
 - content/blog-pages.md
 - content/fluency-disorders.md
