@@ -1,8 +1,8 @@
 +++
 draft = true
 header_menu = false
-title = "Phonology Disorders and Milestones "
-weight = nil
+title = "Phonology Development"
+weight = 1
 
 +++
 **Phonological Errors**
@@ -13,11 +13,10 @@ Typically, speech errors can be broken down into two main categories: **phonolog
 
 **Phonological processes** are patterns of sound errors that initially serve to simplify speech as our little ones are learning to talk. Sometimes, however, these patterns persist past the age we typically expect them to. Below you’ll find the typical age we can expect little ones to “eliminate” some of the most common phonological processes:
 
-  
 ![](/uploads/phono-milestones.png)
 
-A speech language pathologist considers many variables to determine the best treatment approach for children who have phonological processes that persist past their expected age. 
+A speech language pathologist considers many variables to determine the best treatment approach for children who have phonological processes that persist past their expected age.
 
 Do you have concerns about your child’s speech development?
 
-Let's get in touch. 
+[Let's get in touch.](/#let-s-get-in-touch)

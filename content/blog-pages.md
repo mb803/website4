@@ -8,4 +8,4 @@ Click on the below links to check out our blog posts about therapy and signs to 
 
 [Articulation Milestones ](/artic)
 
-[Phonology Development](/Phonology-Disorders-and-Milestones )
+[Phonology Development](/phonology-development)
