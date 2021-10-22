@@ -1,7 +1,7 @@
 +++
 draft = true
 header_menu = false
-title = "Artic"
+title = "Artic Blog"
 weight = nil
 
 +++
@@ -11,10 +11,9 @@ While there are moments where it is adorable to hear our little ones say _“wab
 
 Typically, speech errors can be broken down into two main categories: **Phonological Processes** and **Articulation Errors**. Some speech sound irregularities are expected as our little ones grow and develop, but if they persist, your child may need further intervention.
 
-  
 **Articulation** **Errors** are typically related to misplacing our tongue, lips, or other articulators. Below you’ll find the typical age we can expect little ones to begin saying certain sounds and examples:
 
-![](https://lh3.googleusercontent.com/DP8Dfxzn58cIx0W0UkQV60tlzeYlUCZtrbmdWoxbwN6bVQCfQeEwmP7YhH8HWeHFUo1Iog4vgWEm8GMC0mUxYoy_0UyHv5fZ7A9uvfWIGWr9hX5uecSQz1fa81XdENq0SRcpPJY=s1600 =624x233)
+![](/uploads/artic-milestones.png)
 
 While the above developmental norms are important when considering if a child may benefit from speech therapy, there are other variables that should also be considered:
 
@@ -26,4 +25,4 @@ While the above developmental norms are important when considering if a child ma
 
 Do you have concerns about your child’s speech development?
 
-Let's get in touch. 
+[Let's get in touch.](/#let-s-get-in-touch)
