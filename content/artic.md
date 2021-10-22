@@ -1,5 +1,4 @@
 +++
-draft = true
 header_menu = false
 title = "Artic Blog"
 weight = nil
