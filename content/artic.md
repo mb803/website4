@@ -1,6 +1,6 @@
 +++
 header_menu = false
-title = "Artic Blog"
+title = "Artic"
 weight = 1
 
 +++
