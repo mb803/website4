@@ -4,7 +4,7 @@ title = "Articulation Disorders and Milestones "
 weight = 1
 
 +++
-While there are moments where it is adorable to hear our little ones say _“wabbit”_ when talking about bunnies, _“lello”_ when talking about the color of the sun, or even seeing their tongue pop out when hissing like a snake, these are all signs that they may need speech therapy from a speech language pathologist.
+While there are moments where it is adorable to hear our little ones say _“wabbit”_ when talking about bunnies, _“lello”_ when talking about the color of the sun, or even seeing their tongue pop out when hissing like a snake, these are all signs that they may need speech therapy.
 
 Typically, speech errors can be broken down into two main categories: **Phonological Processes** and **Articulation Errors**. Some speech sound irregularities are expected as our little ones grow and develop, but if they persist, your child may need further intervention.
 
@@ -20,6 +20,6 @@ While the above developmental norms are important when considering if a child ma
 * **Difficulty learning to read and write:** Children with speech sound disorders are at a higher risk of literacy-related delays
 * **Social and emotional impact:** If your child is particularly aware and self-conscious of their speech errors, it may impact their social engagement with their peers at school and extracurricular activities.
 
-Do you have concerns about your child’s speech development?
+At MollyBSLP, we offer virtual speech therapy in NJ, NY, and VA. Speech therapy at home in NJ is also available to a limited coverage area. Do you have concerns about your child’s speech development?
 
 [Let's get in touch.](/#let-s-get-in-touch)
