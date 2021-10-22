@@ -24,6 +24,12 @@ As mentioned above, the scope of an SLP is very broad. Speech Language Therapist
 
 Speech Language Therapists can work with clients across the lifespan. This includes our littlest babies up to our beloved elderly population. There is no age minimum or limit to needing, receiving and benefitting from speech therapy. 
 
+At MollyBSLP, we specialize in the pediatric population: 
+
+* **Early intervention (EI) population**
+* **Preschoolers**
+* **School students K-12**
+
 Additionally, an SLP often works closely with other professionals within a team-based approach. Other professionals on a child's team can include:  occupational therapists (OT), physical therapists (PT), psychologists, teachers, pediatricians, ear, nose and throat doctors (ENTs), dentists, and orthodontists. Most often, a team-based approach with all professionals who work with a child leads to great progress.
 
 Most importantly, however, an SLP should be consistently collaborating with a child's family members. It is important to note that a child spends the majority of his or her day with their family members: mothers, fathers, siblings, grandparents, aunts, uncles, and other caretakers. It is vital that a speech therapist works closely with a client's family members to promote carryover of strategies and activities at home beyond the speech therapy sessions.
@@ -50,6 +56,10 @@ Here at MollyBSLP, we primarily provide virtual speech therapy to families in Vi
 It is important that your speech language pathologist is a good fit for your child and your family. The field of speech language pathology is not a one type fits all support system. There are many valid approaches, techniques, and perspectives within the field. Because of this, it is important that both your family and your child feel comfortable and supported by your speech therapist. 
 
 At MollyBSLP, we focus on a child-led approach. Research and experience have shown that following a child's lead and interests can lead to improved engagement and ultimately progress. We implement a play-based approach whenever possible and consistently include a child's interests into our therapy sessions. Our mission is to make mundane worksheets, drill-work, and learning more engaging for all of our clients to support intrinsic motivation and a learning-supportive environment. For progress to happen, it is important that our clients feel safe and supported first. 
+
+## When do I need to look for a speech therapist for my child?
+
+At MollyBSLP, we do not believe in the "wait-and-see" approach. We strongly feel that if you have any concerns regarding your child's speech, language, or feeding development it is best to find a speech therapist to speak with and evaluate your child for further information. In some instances, children get evaluated through a state-funded program or school district and do not qualify for services; if this happened to your child but you still have concerns, we recommend reaching out to us to further discuss your child and your concerns. Most importantly, if you ever feel increased stress or anxiety regarding your child's speech, language, or feeding development, that is more than enough reason to reach out to a professional for guidance and support. 
 
 ## How do I find a speech therapist near me?
 
