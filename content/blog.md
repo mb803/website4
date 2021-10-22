@@ -8,7 +8,7 @@ Click on the below links to check out our blog posts about therapy and signs to 
 
 ## What is an SLP?
 
-Unsure of what exactly a speech language pathologist (SLP) does? What about a speech therapist and speech teacher? Learn more about the role of an SLP, who we work with, and if you child may benefit from seeing one.
+Unsure of what exactly a speech language pathologist (SLP) does? What is the difference between a speech therapist and speech teacher? Learn more about the role of an SLP, who we work with, and if you child may benefit from seeing one.
 
 [Read more.](/slp-role)
 
