@@ -4,8 +4,6 @@ title = "Articulation Disorders and Milestones "
 weight = 1
 
 +++
-**Articulation Disorders**
-
 While there are moments where it is adorable to hear our little ones say _“wabbit”_ when talking about bunnies, _“lello”_ when talking about the color of the sun, or even seeing their tongue pop out when hissing like a snake, these are all signs that they may need speech therapy from a speech language pathologist.
 
 Typically, speech errors can be broken down into two main categories: **Phonological Processes** and **Articulation Errors**. Some speech sound irregularities are expected as our little ones grow and develop, but if they persist, your child may need further intervention.
