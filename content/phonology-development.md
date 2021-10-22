@@ -1,12 +1,9 @@
 +++
-draft = true
 header_menu = false
 title = "Phonology Development"
 weight = 1
 
 +++
-**Phonological Errors**
-
 When your little one first starts to talk, your first reaction may be to film everything they say because, well, it is just so adorable when they try to tell you the “Goggy ay da tick” (doggy ate the stick). Those videos will be fondly watched for ages and used at birthday parties, family get togethers, and celebrations for years to come as a reminder of their innocence. Depending on their age, however, that child may benefit from working with a speech therapist.
 
 Typically, speech errors can be broken down into two main categories: **phonological** and **articulatory**. Some speech sound irregularities are expected as our little ones grow and develop, but if they persist may need further intervention.
