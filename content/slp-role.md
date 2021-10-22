@@ -1,5 +1,4 @@
 +++
-draft = true
 header_menu = false
 title = "What is a Speech Language Pathologist?"
 weight = 1
