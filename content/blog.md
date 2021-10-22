@@ -1,6 +1,6 @@
 +++
 header_menu = false
-title = "Blog Pages"
+title = "Blog"
 weight = 1
 
 +++
