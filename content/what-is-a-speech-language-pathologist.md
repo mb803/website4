@@ -8,7 +8,7 @@ _Speech Language Pathologist, Speech Therapist, Speech Teacher, Feeding Therapis
 
 Formally speaking, a speech language pathologist (SLP) is a professional that diagnoses and treats people of all ages for speech, language, social, cognitive, and feeding disorders within a variety of settings.
 
-![Boy doing his speech therapy homework](/uploads/speech-therapy-boy.jpeg "Boy practicing speech therapy")
+![](/uploads/speech-therapy-boy.jpeg "Boy practicing speech therapy")
 
 ## What does an SLP do?
 
@@ -36,7 +36,7 @@ Additionally, an SLP often works closely with other professionals within a team-
 
 Most importantly, however, an SLP should be consistently collaborating with a child's family members. It is important to note that a child spends the majority of his or her day with their family members: mothers, fathers, siblings, grandparents, aunts, uncles, and other caretakers. It is vital that a speech therapist works closely with a client's family members to promote carryover of strategies and activities at home beyond the speech therapy sessions.
 
-![Logging onto speech therapy for a virtual session](/uploads/virtual-speech-therapy-on-zoom.jpeg "Virtual Speech Therapy on Zoom")
+![](/uploads/virtual-speech-therapy-on-zoom.jpeg "Virtual Speech Therapy on Zoom")
 
 ## Where do SLPs work?
 
