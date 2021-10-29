@@ -30,15 +30,23 @@ While the above developmental norms are important when considering if a child ma
 * **Difficulty learning to read and write:** Children with speech sound disorders are at a higher risk of literacy-related delays
 * **Social and emotional impact:** If your child is particularly aware and self-conscious of their speech errors, it may impact their social engagement with their peers at school and extracurricular activities.
 
-## Intelligibility
+## How intelligible should my child be?
 
 As mentioned above, intelligibility is a percentage of which a child is understood by both familiar and unfamiliar listeners. So often, we find that parents are personal translators for their little ones. A child may say "Ah ee uh aabih" and their mom, dad, or caretaker will casually tell their teacher or friend "Oh, they said that they see a rabbit."
 
-While it is extremely important that our children feel understood, especially by their parents with a sometimes extreme superpower of translation, we also want our children to be understood by their peers, classmates, friends, and teachers.
+While it is extremely important that our children feel understood by their parents and caretakers, we also want our children to feel heard and understood by their peers, classmates, friends, and teachers.
 
 ![](/uploads/intelligibility-rates-for-kids.png)
 
-As you'll see above, our children become about 25% more intelligible each year they grow starting with our 2 year olds being about 50% intelligible, working up to 4 year olds and above to being 100% intelligible. It is important to note that these percentages apply to both familiar listeners who are consistently around a child and unfamiliar listeners, which can include a waiter at a restaurant, a substitute teacher, or even family visiting from out of town.   
+As you'll see above, our children become about 25% more intelligible each year they grow starting with our 2 year olds being about 50% intelligible, working up to 4 year olds and above to being 100% intelligible. It is important to note that these percentages apply to both **familiar listeners** who are consistently around a child and **unfamiliar listeners**, which can include a waiter at a restaurant, a substitute teacher, or even family visiting from out of town. If you find yourself thinking "_I can't understand my child"_ or that you understand them perfectly well, but your child's speech is hard to understand for others, they may benefit from speech therapy... even if the sounds they have difficulty with aren't expected at their current age.
+
+## My child can't say his name.
+
+A final consideration to make note of when thinking of articulation disorders is our child's name and other important words in his or her life. Even if your child isn't expected to say a specific sound until a certain age, if it is greatly impacting their ability to say their name, family members, or even favorite food, it is impacting their daily communication. 
+
+As mentioned throughout this post, we consider variables beyond developmental norms when considering if a child would benefit from speech therapy. If a child is unable to say their name or other important words, they may be less intelligible to others (see above), but also may begin to develop a negative self-perception. At MollyBSLP, we don't believe in the "wait and see" approach, we feel that if your child is feeling frustrated with his or her speech or if you, their caregiver, feel stressed or concerned about their development, it is best to reach out to a professional for support and guidance. 
+
+## How do I get my child into speech therapy?
 
 At MollyBSLP, we offer virtual speech therapy in NJ, NY, and VA. Speech therapy at home in NJ is also available to a limited coverage area. Do you have concerns about your child’s speech development?
 
