@@ -18,7 +18,7 @@ _(Of note, speech sound disorders can include a multitude of other characteristi
 
 **Articulation** **Disorders** are articulatory errors that are typically related to misplacing our tongue, lips, or other articulators resulting in a sound substitution or a sound distortion. As our little ones grow, they begin to develop speech sounds in a developmental order. Depending on your child's age, their articulatory errors may be typical and expected. Below you’ll find the typical age we can expect little ones to begin saying certain sounds and examples:
 
-![](/uploads/articulation-speech-milestones.png)
+![Developmental Milestones for Articulation](/uploads/articulation-speech-milestones.png "Speech Milestones")
 
 ## What if my their errors are typical, but I can't understand my child's speech?
 
@@ -36,7 +36,7 @@ As mentioned above, intelligibility is a percentage of which a child is understo
 
 While it is extremely important that our children feel understood by their parents and caretakers, we also want our children to feel heard and understood by their peers, classmates, friends, and teachers.
 
-![](/uploads/intelligibility-rates-for-kids.png)
+![Chart of intelligibility expected for children](/uploads/intelligibility-rates-for-kids.png "Percent Intelligible for kids")
 
 As you'll see above, our children become about 25% more intelligible each year they grow starting with our 2 year olds being about 50% intelligible, working up to 4 year olds and above to being 100% intelligible. It is important to note that these percentages apply to both **familiar listeners** who are consistently around a child and **unfamiliar listeners**, which can include a waiter at a restaurant, a substitute teacher, or even family visiting from out of town. If you find yourself thinking "_I can't understand my child"_ or that you understand them perfectly well, but your child's speech is hard to understand for others, they may benefit from speech therapy... even if the sounds they have difficulty with aren't expected at their current age.
 
