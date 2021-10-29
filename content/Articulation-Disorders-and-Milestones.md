@@ -18,7 +18,7 @@ _(Of note, speech sound disorders can include a multitude of other characteristi
 
 **Articulation** **Disorders** are articulatory errors that are typically related to misplacing our tongue, lips, or other articulators resulting in a sound substitution or a sound distortion. As our little ones grow, they begin to develop speech sounds in a developmental order. Depending on your child's age, their articulatory errors may be typical and expected. Below you’ll find the typical age we can expect little ones to begin saying certain sounds and examples:
 
-![](/uploads/artic-milestones.png)
+![](/uploads/articulation-speech-milestones.png)
 
 ## What if my their errors are typical, but I can't understand my child's speech?
 
@@ -42,9 +42,9 @@ As you'll see above, our children become about 25% more intelligible each year t
 
 ## My child can't say his name.
 
-A final consideration to make note of when thinking of articulation disorders is our child's name and other important words in his or her life. Even if your child isn't expected to say a specific sound until a certain age, if it is greatly impacting their ability to say their name, family members, or even favorite food, it is impacting their daily communication. 
+A final consideration to make note of when thinking of articulation disorders is our child's name and other important words in his or her life. Even if your child isn't expected to say a specific sound until a certain age, if it is greatly impacting their ability to say their name, family members, or even favorite food, it is impacting their daily communication.
 
-As mentioned throughout this post, we consider variables beyond developmental norms when considering if a child would benefit from speech therapy. If a child is unable to say their name or other important words, they may be less intelligible to others (see above), but also may begin to develop a negative self-perception. At MollyBSLP, we don't believe in the "wait and see" approach, we feel that if your child is feeling frustrated with his or her speech or if you, their caregiver, feel stressed or concerned about their development, it is best to reach out to a professional for support and guidance. 
+As mentioned throughout this post, we consider variables beyond developmental norms when considering if a child would benefit from speech therapy. If a child is unable to say their name or other important words, they may be less intelligible to others (see above), but also may begin to develop a negative self-perception. At MollyBSLP, we don't believe in the "wait and see" approach, we feel that if your child is feeling frustrated with his or her speech or if you, their caregiver, feel stressed or concerned about their development, it is best to reach out to a professional for support and guidance.
 
 ## How do I get my child into speech therapy?
 
