@@ -8,7 +8,7 @@ _Speech Language Pathologist, Speech Therapist, Speech Teacher, Feeding Therapis
 
 Formally speaking, a speech language pathologist (SLP) is a professional that diagnoses and treats people of all ages for speech, language, social, cognitive, and feeding disorders within a variety of settings.
 
-![](/uploads/speech-therapy-boy.jpeg)
+![Boy doing his speech therapy homework](/uploads/speech-therapy-boy.jpeg "Boy practicing speech therapy")
 
 ## What does an SLP do?
 
@@ -36,6 +36,8 @@ Additionally, an SLP often works closely with other professionals within a team-
 
 Most importantly, however, an SLP should be consistently collaborating with a child's family members. It is important to note that a child spends the majority of his or her day with their family members: mothers, fathers, siblings, grandparents, aunts, uncles, and other caretakers. It is vital that a speech therapist works closely with a client's family members to promote carryover of strategies and activities at home beyond the speech therapy sessions.
 
+![Logging onto speech therapy for a virtual session](/uploads/virtual-speech-therapy-on-zoom.jpeg "Virtual Speech Therapy on Zoom")
+
 ## Where do SLPs work?
 
 As previously mentioned, speech therapists can work in a variety of settings:
@@ -59,7 +61,7 @@ It is important that your speech language pathologist is a good fit for your chi
 
 At MollyBSLP, we focus on a child-led approach. Research and experience have shown that following a child's lead and interests can lead to improved engagement and ultimately great progress. We implement a play-based approach whenever possible and consistently include a child's interests into our therapy sessions. Our mission is to make mundane worksheets, drill-work, and learning more engaging for all of our clients. We have found that this promotes intrinsic motivation and a learning-supportive environment. For progress to happen, it is important that our clients feel safe and supported first.
 
-![](/uploads/therapy-puzzle.jpeg)
+![ABC puzzle used in speech therapy for preschoolers](/uploads/therapy-puzzle.jpeg "ABC Puzzle for speech")
 
 ## When do I need to look for a speech therapist for my child?
 
