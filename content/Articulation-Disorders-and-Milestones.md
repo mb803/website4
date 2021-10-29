@@ -20,7 +20,7 @@ _(Of note, speech sound disorders can include a multitude of other characteristi
 
 ![Developmental Milestones for Articulation](/uploads/articulation-speech-milestones.png "Speech Milestones")
 
-## What if my their errors are typical, but I can't understand my child's speech?
+## Looking Beyond Speech Milestones
 
 While the above developmental norms are important when considering if a child may benefit from speech therapy, there a multitude of other variables that should also be considered as well:
 
@@ -40,7 +40,7 @@ While it is extremely important that our children feel understood by their paren
 
 As you'll see above, our children become about 25% more intelligible each year they grow starting with our 2 year olds being about 50% intelligible, working up to 4 year olds and above to being 100% intelligible. It is important to note that these percentages apply to both **familiar listeners** who are consistently around a child and **unfamiliar listeners**, which can include a waiter at a restaurant, a substitute teacher, or even family visiting from out of town. If you find yourself thinking "_I can't understand my child"_ or that you understand them perfectly well, but your child's speech is hard to understand for others, they may benefit from speech therapy... even if the sounds they have difficulty with aren't expected at their current age.
 
-## My child can't say his name.
+## What if my child can't say his name?
 
 A final consideration to make note of when thinking of articulation disorders is our child's name and other important words in his or her life. Even if your child isn't expected to say a specific sound until a certain age, if it is greatly impacting their ability to say their name, family members, or even favorite food, it is impacting their daily communication.
 
