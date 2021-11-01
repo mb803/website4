@@ -69,7 +69,7 @@ At MollyBSLP, we do not believe in the "wait-and-see" approach. We strongly feel
 
 ## How do I find a speech therapist near me?
 
-Here at MollyBSLP, we specialize in therapy for babies, children, adolescents, and teens working on speech, language and feeding goals.  We provide virtual speech therapy in New York, New Jersey, and Virginia. Additionally, we provide home-based speech therapy in New Jersey within a limited coverage area. If you are outside of our coverage area but are still interested, please reach out and we will be able to provide you with more information and support to the best of our ability.
+Here at MollyBSLP, we specialize in therapy for toddlers, children, adolescents, and teens working on speech, language and feeding goals.  We provide virtual speech therapy in New York, New Jersey, and Virginia. Additionally, we provide home-based speech therapy in New Jersey within a limited coverage area. If you are outside of our coverage area but are still interested, please reach out and we will be able to provide you with more information and support to the best of our ability.
 
 Looking for more information on if your child may need speech therapy?
 
