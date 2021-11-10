@@ -32,13 +32,21 @@ While the above developmental norms are important when considering if a child ma
 
 ## How intelligible should my child be?
 
-As mentioned above, intelligibility is a percentage of which a child is understood by both familiar and unfamiliar listeners. So often, we find that parents are personal translators for their little ones. A child may say "Ah ee uh aabih" and their mom, dad, or caretaker will casually tell their teacher or friend "Oh, they said that they see a rabbit."
+As mentioned above, intelligibility is a percentage of which a child is understood by both familiar and unfamiliar listeners.
 
-While it is extremely important that our children feel understood by their parents and caretakers, we also want our children to feel heard and understood by their peers, classmates, friends, and teachers.
+So often, we find that parents are personal translators for their little ones. A child may say "Ah ee uh aabih" and their mom, dad, or caretaker will casually tell their teacher or friend "Oh, they said that they see a rabbit." Because your little one spends more time interacting and communicating with you, you may have an easier time understanding him or her than others may.
 
-![Chart of intelligibility expected for children](/uploads/intelligibility-rates-for-kids.png "Percent Intelligible for kids")
+As you'll see below,  children become about 25% more intelligible each year that they grow starting with  2 year olds being about 50% intelligible, working up to 4 year olds and above to being approximately 100% intelligible. It is important to note that these percentages apply to **familiar listeners.** Familiar listeners can include: caretakers, siblings, babysitters, and any adults who live in the home with the child.
 
-As you'll see above, our children become about 25% more intelligible each year they grow starting with our 2 year olds being about 50% intelligible, working up to 4 year olds and above to being 100% intelligible. It is important to note that these percentages apply to both **familiar listeners** who are consistently around a child and **unfamiliar listeners**, which can include a waiter at a restaurant, a substitute teacher, or even family visiting from out of town. If you find yourself thinking "_I can't understand my child"_ or that you understand them perfectly well, but your child's speech is hard to understand for others, they may benefit from speech therapy... even if the sounds they have difficulty with aren't expected at their current age.
+![Chart of intelligibility expected for children with familiar listeners](/uploads/percent-intelligble-to-familiar-listeners.png "Percent Intelligible for Familiar Listeners")
+
+While it is extremely important that our children feel understood by their parents and caretakers, we also want our children to feel heard and understood by **unfamiliar listeners**. Unfamiliar listeners can include your child's classmates and teachers, but also a waiter at a restaurant, a substitute teacher, or even family visiting from out of town. 
+
+In the following chart, you'll find the expected percent of intelligibility for children with unfamiliar listeners. 
+
+![](/uploads/percent-intelligble-to-unfamiliar-listeners.png)
+
+ If you find yourself thinking "_I can't understand my child"_ or that you understand them perfectly well, but your child's speech is hard to understand for others, they may benefit from speech therapy... even if the sounds they have difficulty with aren't expected at their current age.
 
 ## What if my child can't say his name?
 
