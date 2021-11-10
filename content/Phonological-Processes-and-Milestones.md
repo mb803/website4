@@ -4,7 +4,7 @@ title = "Phonological Processes and their Development"
 weight = 1
 
 +++
-When your little one first starts to talk, your first reaction may be to film everything they say because, well, it is just so adorable when they say “Goggy ay da tick” when they were really trying to tell you "The doggy ate the stick." Those videos will be fondly watched for ages and used at birthday parties, family get togethers, and celebrations for years to come, however, depending on your child's age, they may benefit from working with a speech therapist.
+When your little one first starts to talk, your first reaction may be to film everything they say because, well, it is just so adorable when they say “Goggy ay da tick” when they were really trying to tell you "The doggy ate the stick." Those videos will be fondly watched for ages and used at birthday parties, family get togethers, and celebrations for years to come, however, depending on your child's age, they may benefit from working with a speech therapist to become more easily understood.
 
 ## Types of Speech Sound Disorders
 
@@ -25,19 +25,19 @@ _(Of note, speech sound disorders can include a multitude of other characteristi
 * **Sound Additions**: Adding a sound to a word
   * Example: saying "stun" for 'sun'
 
-While these patterns of changes to words in our child's speech are expected as they grow and learn language, they sometimes can persist past the age we typically expect them to. Below you’ll find the typical age we can expect little ones to “eliminate” some of the most common phonological processes:
+While these patterns of changes to words in our child's speech are expected as they grow and learn language, they can sometimes persist past the age we typically expect them to. Below you’ll find a chart with a list of the most common phonological processes, the typical age we can expect little ones to “eliminate” them, and an example of each:
 
 ![A chart listing various phonological processes, their developmental ages, and an example](/uploads/phono-milestones.png "Phonological Processes Milestones Chart")
 
 ## How do we fix my child's speech?
 
-After speaking and meeting with a speech language pathologist, they may recommend therapy to work on your child's speech skills and phonological processes. There are a variety of approaches that an SLP may choose to take with your child and there is no "best" approach for every child. 
+After speaking and meeting with a speech language pathologist, they may recommend therapy to work on your child's speech skills and phonological processes. There are a variety of approaches that an SLP may choose to take with your child and there is no "best" approach for every child.
 
-When deciding on a therapy approach, a speech therapist considers many variables. First, an SLP considers how many phonological processes your child may have and the types of phonological processes your child may have. They also may consider your child's confidence level with their speech, attention span to certain tasks, and level of importance to lead to the most improvement. Additionally, an SLP may change approaches during intervention to best meet the needs of your child. 
+When deciding on a therapy approach, a speech therapist considers many variables. First, an SLP considers how many phonological processes your child may have and the types of phonological processes your child may have. They also may consider your child's confidence level with their speech, attention span to certain tasks, and level of importance to lead to the most improvement. Additionally, an SLP may change approaches during intervention to best meet the needs of your child.
 
 Some intervention approaches can include:
 
-* **Minimal Pairs:** 
+* **Minimal Pairs:**
 * **Cycles**
 * **Multiple Oppositions**
 * **Maximal Oppositions**
