@@ -22,4 +22,4 @@ Speech-sound disorders are an encompassing diagnosis referring to children who h
 
 Speech-sound disorders are an encompassing diagnosis referring to children who have reduced intelligibility and a difficulty producing speech as expected with their age. If a child is unable to produce specific pattern of speech sounds or is hard to understand, they may have a phonological disorder.
 
-[Read more]()
+[Read more](/Phonological-Processes-and-Milestones)
