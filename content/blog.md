@@ -17,3 +17,9 @@ Unsure of what exactly a speech language pathologist (SLP) does? What is the dif
 Speech-sound disorders are an encompassing diagnosis referring to children who have reduced intelligibility and a difficulty producing speech as expected with their age. Speech sound development typically follows a linear path as your child grows. If a child is unable to produce specific speech sounds or is hard to understand, they may have an articulation disorder.
 
 [Read more](/Articulation-Disorders-and-Milestones)
+
+## Speech Sound Disorders: Phonological Processes
+
+Speech-sound disorders are an encompassing diagnosis referring to children who have reduced intelligibility and a difficulty producing speech as expected with their age. If a child is unable to produce specific pattern of speech sounds or is hard to understand, they may have a phonological disorder.
+
+[Read more]()
