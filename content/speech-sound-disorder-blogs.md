@@ -18,6 +18,6 @@ _Phonological processes_ are patterns of sound errors that initially serve to si
 
 ### Strategies: Fixing a Lisp
 
-A common articulation error is a lisp, or difficulty saying S. There are several different types of lisps, one developmental and others which are not part of typical development, indicating need for speech therapy. Learn about the types of lisps and strategies to try at home. 
+A common articulation error is a lisp, or difficulty saying S. There are several different types of lisps, one developmental and others which are not part of typical development, indicating need for speech therapy. Learn about the types of lisps and strategies to try at home.
 
-Read more 
+[Read more]()
