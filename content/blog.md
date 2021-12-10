@@ -12,8 +12,8 @@ Unsure of what exactly a speech language pathologist (SLP) does? What is the dif
 
 [Read more](/what-is-a-speech-language-pathologist)
 
-## Speech Sound Disorders:
+## Speech Sound Disorders
 
 Speech-sound disorders are an encompassing diagnosis referring to children who have reduced intelligibility and a difficulty producing speech as expected with their age. Speech sound development typically follows a linear path as your child grows. There are various types of speech sound disorders and strategies you can try at home to help your kid's speech.
 
-[Read more](/Speech-Sound-Disorder-Blogs)
+[Read more](speech-sound-disorder-blogs)
