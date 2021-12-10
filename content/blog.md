@@ -14,16 +14,6 @@ Unsure of what exactly a speech language pathologist (SLP) does? What is the dif
 
 ## Speech Sound Disorders:
 
-Speech-sound disorders are an encompassing diagnosis referring to children who have reduced intelligibility and a difficulty producing speech as expected with their age. Speech sound development typically follows a linear path as your child grows.
+Speech-sound disorders are an encompassing diagnosis referring to children who have reduced intelligibility and a difficulty producing speech as expected with their age. Speech sound development typically follows a linear path as your child grows. There are various types of speech sound disorders and strategies you can try at home to help your kid's speech.
 
-###  Articulation Disorders
-
-Are you finding yourself thinking _Why can't my kid say R?_ or _What do I do about a lisp?_ Your child may be unable to produce specific speech sounds and may be hard to understand; they may have an articulation disorder.
-
-[Read more](/Articulation-Disorders-and-Milestones)
-
-### Phonological Processes
-
-_Phonological processes_ are patterns of sound errors that initially serve to simplify speech as our little ones are learning to talk, however if they persist past an expected age, our kids may be hard to understand. 
-
-[Read more](/Phonological-Processes-and-Milestones)
+[Read more](/Speech-Sound-Disorder-Blogs)
