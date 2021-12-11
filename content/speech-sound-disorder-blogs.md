@@ -1,7 +1,7 @@
 +++
 header_menu = false
 title = "Speech Sound Disorder Blogs"
-weight = nil
+weight = 1
 
 +++
 ## Articulation Disorders
