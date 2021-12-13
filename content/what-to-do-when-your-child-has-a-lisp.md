@@ -42,4 +42,4 @@ You may see those strategies above and think, _why does my son need speech thera
 
 While the above strategies may work, as mentioned above there are several different types of lisps. While some are developmental, and your child may grow out of it, others are not and require individualized treatment. If you have any concerns about your child's speech, reach out to a speech therapist for a consultation or evaluation to discuss your options.
 
-[Let's get in touch.]( "/#let-s-get-in-touch")
+[Let's get in touch.](/#let-s-get-in-touch)
