@@ -44,7 +44,7 @@ When deciding on a therapy approach, a speech therapist considers many variables
 
 ![Table set up with minimal pairs (smash-mash, stick-tick, spin-pin) within a game activity](/uploads/minimal-pairs.png "Minimal Pairs Therapy")
 
-_In this picture, you'll see the set up for a session working on cluster reduction within a fun, engaging game._ 
+_In this picture, you'll see the set up for a session working on cluster reduction within a fun, engaging game._
 
 It is important to note that this is a brief overview of the treatment speech therapists use for phonological processes and many others exist that are not mentioned in this post.
 
@@ -61,3 +61,15 @@ Do you live in New Jersey, New York, or Virginia? Then look no further, we at Mo
 Do you have concerns about your child’s speech development?
 
 [Let's get in touch.](/#let-s-get-in-touch)
+
+##### Resources
+
+Bleile, Ken M. (1995). Manual of Articulation and Phonological Disorders. San Diego, CA: Singular Publishing Group, Inc.
+
+Bowen, Caroline, (2011). Elimination of Phonological Processes in Typical Development.
+
+Linguisystems, (2008). Phonological Pattern Suppression by Age. http://www.linguisystems.com
+
+Hedge, M.N. (2001). Pocket Guide to Assessment in Speech-Language Pathology (2nd Edition). San Diego, CA:
+
+Pena-Brooks, Adriana, & Hedge, M.N. (2007). Assessment and treatment of articulation and phonological disorders in children (2nd Edition). Austin, TX: PRO-ED.
