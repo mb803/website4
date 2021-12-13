@@ -40,13 +40,13 @@ As you'll see below,  children become about 25% more intelligible each year that
 
 ![Chart of intelligibility expected for children with familiar listeners](/uploads/percent-intelligble-to-familiar-listeners.png "Percent Intelligible for Familiar Listeners")
 
-While it is extremely important that our children feel understood by their parents and caretakers, we also want our children to feel heard and understood by **unfamiliar listeners**. Unfamiliar listeners can include your child's classmates and teachers, but also a waiter at a restaurant, a substitute teacher, or even family visiting from out of town. 
+While it is extremely important that our children feel understood by their parents and caretakers, we also want our children to feel heard and understood by **unfamiliar listeners**. Unfamiliar listeners can include your child's classmates and teachers, but also a waiter at a restaurant, a substitute teacher, or even family visiting from out of town.
 
-In the following chart, you'll find the expected percent of intelligibility for children with unfamiliar listeners. 
+In the following chart, you'll find the expected percent of intelligibility for children with unfamiliar listeners.
 
 ![](/uploads/percent-intelligble-to-unfamiliar-listeners.png)
 
- If you find yourself thinking "_I can't understand my child"_ or that you understand them perfectly well, but your child's speech is hard to understand for others, they may benefit from speech therapy... even if the sounds they have difficulty with aren't expected at their current age.
+If you find yourself thinking "_I can't understand my child"_ or that you understand them perfectly well, but your child's speech is hard to understand for others, they may benefit from speech therapy... even if the sounds they have difficulty with aren't expected at their current age.
 
 ## What if my child can't say his name?
 
@@ -59,3 +59,7 @@ As mentioned throughout this post, we consider variables beyond developmental no
 At MollyBSLP, we offer virtual speech therapy in NJ, NY, and VA. Speech therapy at home in NJ is also available to a limited coverage area. Do you have concerns about your child’s speech development?
 
 [Let's get in touch.](/#let-s-get-in-touch)
+
+##### Resources
+
+Crowe, K., & McLeod, S. (2020). Children's English consonant acquisition in the United States: A review. _American Journal of Speech-Language Pathology_. [https://doi.org/10.1044/2020_AJSLP-19-00168](https://doi.org/10.1044/2020_AJSLP-19-00168 "https://doi.org/10.1044/2020_AJSLP-19-00168")
