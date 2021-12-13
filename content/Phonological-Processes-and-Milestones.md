@@ -68,7 +68,7 @@ Bleile, Ken M. (1995). Manual of Articulation and Phonological Disorders. San Di
 
 Bowen, Caroline, (2011). Elimination of Phonological Processes in Typical Development.
 
-Linguisystems, (2008). Phonological Pattern Suppression by Age. http://www.linguisystems.com
+Linguisystems, (2008). Phonological Pattern Suppression by Age. 
 
 Hedge, M.N. (2001). Pocket Guide to Assessment in Speech-Language Pathology (2nd Edition). San Diego, CA:
 
