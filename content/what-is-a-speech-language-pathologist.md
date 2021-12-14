@@ -74,3 +74,9 @@ Here at MollyBSLP, we specialize in therapy for toddlers, children, adolescents,
 Looking for more information on if your child may need speech therapy?
 
 [Let's get in touch.](/#let-s-get-in-touch)
+
+##### References
+
+1. American Speech-Language-Hearing Association. (2021, January 1). _Scope of practice in speech-language pathology_. American Speech-Language-Hearing Association. Retrieved December 14, 2021, from https://www.asha.org/policy/sp2016-00343/
+2. American Speech-Language-Hearing Association. (2021). _Speech-language pathologists_. Job Description and Career Information. Retrieved December 14, 2021, from https://www.asha.org/students/speech-language-pathologists/
+3. American Speech-Language-Hearing Association. (2021). _Who are speech-language pathologists, and what do they do?_ American Speech-Language-Hearing Association. Retrieved December 14, 2021, from https://www.asha.org/public/who-are-speech-language-pathologists/
