@@ -46,5 +46,5 @@ While the above strategies may work, as mentioned above there are several differ
 
 ##### References
 
-1. American Speech-Language-Hearing Association. (2021). _Speech sound disorders: Articulation and phonology_. Speech Sound Disorders: Articulation and Phonology. Retrieved December 14, 2021, from https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/
+1. American Speech-Language-Hearing Association. (2021). _Speech sound disorders: Articulation and phonology_. Speech Sound Disorders: Articulation and Phonology. Retrieved December 14, 2021, from asha.org/practice-portal/clinical-topics/articulation-and-phonology/
 2. Crowe, K., & McLeod, S. (2020). Children's English consonant acquisition in the United States: A review. _American Journal of Speech-Language Pathology_.
