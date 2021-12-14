@@ -60,8 +60,7 @@ At MollyBSLP, we offer virtual speech therapy in NJ, NY, and VA. Speech therapy 
 
 [Let's get in touch.](/#let-s-get-in-touch)
 
-##### Resources
+##### References
 
-Crowe, K., & McLeod, S. (2020). Children's English consonant acquisition in the United States: A review. _American Journal of Speech-Language Pathology_.
-
-Hustad, K. C., Mahr, T. J., Soriano, J. U., & Rathouz, P. J. (2021). Speech Development Between 30 and 119 Months in Typical Children II: Articulation Rate Growth Curves. _Journal of Speech, Language, and Hearing Research_, _64_(11).
+1. Crowe, K., & McLeod, S. (2020). Children's English consonant acquisition in the United States: A review. _American Journal of Speech-Language Pathology_.
+2. Hustad, K. C., Mahr, T. J., Soriano, J. U., & Rathouz, P. J. (2021). Speech Development Between 30 and 119 Months in Typical Children II: Articulation Rate Growth Curves. _Journal of Speech, Language, and Hearing Research_, _64_(11).

@@ -62,14 +62,10 @@ Do you have concerns about your child’s speech development?
 
 [Let's get in touch.](/#let-s-get-in-touch)
 
-##### Resources
+##### References
 
-Bleile, Ken M. (1995). Manual of Articulation and Phonological Disorders. San Diego, CA: Singular Publishing Group, Inc.
-
-Bowen, Caroline, (2011). Elimination of Phonological Processes in Typical Development.
-
-Linguisystems, (2008). Phonological Pattern Suppression by Age. 
-
-Hedge, M.N. (2001). Pocket Guide to Assessment in Speech-Language Pathology (2nd Edition). San Diego, CA:
-
-Pena-Brooks, Adriana, & Hedge, M.N. (2007). Assessment and treatment of articulation and phonological disorders in children (2nd Edition). Austin, TX: PRO-ED.
+1. Bleile, Ken M. (1995). Manual of Articulation and Phonological Disorders. San Diego, CA: Singular Publishing Group, Inc.
+2. Bowen, Caroline, (2011). Elimination of Phonological Processes in Typical Development.
+3. Hedge, M.N. (2001). Pocket Guide to Assessment in Speech-Language Pathology (2nd Edition). San Diego, CA:
+4. Linguisystems, (2008). Phonological Pattern Suppression by Age.
+5. Pena-Brooks, Adriana, & Hedge, M.N. (2007). Assessment and treatment of articulation and phonological disorders in children (2nd Edition). Austin, TX: PRO-ED.
