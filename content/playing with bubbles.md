@@ -8,6 +8,8 @@ Does your child _love_ bubbles?
 
 Well not only do children love bubbles, but speech therapists do, too! Bubbles are a fun, interactive activity to keep your child's attention and to work on some great speech therapy at the same time. Bubbles are a great **people toy**. This  means its a toy that keeps your child engaged with **you**, not with pushing buttons to make a noise or lights go off.
 
+![](/uploads/girl-blowing-bubbles.png)
+
 Check out some ways to work on speech therapy at home with bubbles. There is an easy to print, one page picture to hang on your fridge at the end of this blog post!
 
 ### Use Key Words with Actions

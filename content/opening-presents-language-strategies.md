@@ -6,6 +6,8 @@ weight = 1
 +++
 Opening presents is a fun, exciting activity that happens during special times of the year. Primarily, the holidays and birthdays. Check out some of the below strategies to incorporate in your present-opening festivities to promote language development for your kids. Don't forget to scroll to the bottom for an easy-to-print 1 page handout to keep at home.
 
+![](/uploads/family-opening-presents.png)
+
 ### Give Choices
 
 * Hold up two gifts that your child can open.
