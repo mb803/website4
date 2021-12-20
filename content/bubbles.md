@@ -70,3 +70,5 @@ Not a problem. Just like adults, some children love certain things and can't be 
 ![](/uploads/bubble-parent-handout.png)
 
 ### References
+
+1. The Hanen Center. (2021). _Give Your Child a Reason to Communicate with Bubbles._ (n.d.). Retrieved December 14, 2021, from hanen.org/Helpful-Info/Articles/Give-Your-Child-a-Reason-to-Communicate-with-Bubbl.aspx
