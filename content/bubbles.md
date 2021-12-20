@@ -4,11 +4,11 @@ title = "Bubbles"
 weight = nil
 
 +++
-Does your child _love_ bubbles? 
+Does your child _love_ bubbles?
 
 Well not only do children love bubbles, but speech therapists do, too! Bubbles are a fun, interactive activity to keep your child's attention and to work on some great speech therapy at the same time. Bubbles are a great **people toy**. This  means its a toy that keeps your child engaged with **you**, not with pushing buttons to make a noise or lights go off.
 
-Check out some ways to work on speech therapy at home with bubbles. There is an easy to print, one page picture to hang on your fridge at the end of this blog post! 
+Check out some ways to work on speech therapy at home with bubbles. There is an easy to print, one page picture to hang on your fridge at the end of this blog post!
 
 ### Use Key Words with Actions
 
@@ -16,7 +16,7 @@ Check out some ways to work on speech therapy at home with bubbles. There is an 
   * Close it tight and work on asking for **help**
 * Put the wand **in** and take the want **out**
 * Blow the bubbles **up** or blow them **down**
-* **Pop the bubbles, Stomp the bubbles, Clap the bubbles, Catch the bubbles** 
+* **Pop the bubbles, Stomp the bubbles, Clap the bubbles, Catch the bubbles**
 * Blow **big** and **small** bubbles
 
 ### Identify and Label Body Parts
@@ -57,10 +57,16 @@ Check out some ways to work on speech therapy at home with bubbles. There is an 
 #### We lost our bubble wand, now what?
 
 * Make a new one!
-  * Bend a pipe cleaner into a bubble wand. 
+  * Bend a pipe cleaner into a bubble wand.
   * Ue items from your kitchen with holes:
     * Cookie cutters, buttons, plastic-soda rings, tumbler tops, anything!
 
 #### My kid doesn't like bubbles.
 
-Not a problem. Just like adults, some children love certain things and can't be bothered about others. There are plenty of other people games and activities to work on your kid's language development 
+Not a problem. Just like adults, some children love certain things and can't be bothered about others. There are plenty of other people games and activities to work on your kid's language development
+
+## One Page Handout
+
+![](/uploads/bubble-parent-handout.png)
+
+### References
