@@ -22,4 +22,4 @@ Speech-sound disorders are an encompassing diagnosis referring to children who h
 
 Early Intervention refers to our little ones that are anywhere from birth to three years old. Instead of the _wait and see_ mindset, we believe that if you have any concerns about your child's speech you should seek out professional guidance. Early Intervention is a parent-coaching model in which the speech therapist guides you towards making positive changes with your interactions at home.
 
-[Read more](/early intervention blogs)
+[Read more](/early-intervention-blogs)
