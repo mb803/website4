@@ -14,6 +14,6 @@ Are you concerned about your baby's feeding or language development? Maybe they 
 
 Click on the below links for 1-page handouts on strategies and ideas to incorporate in your daily routines with little ones.
 
-[Bubbles](/playing-with-bubbles) 
+[Bubbles](/playing-with-bubbles)
 
-Opening Presents 
+[Opening Presents](/opening-presents-language-strategies)
