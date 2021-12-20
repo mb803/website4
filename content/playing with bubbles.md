@@ -1,7 +1,7 @@
 +++
 header_menu = false
 title = "Bubbles"
-weight = nil
+weight = 1
 
 +++
 Does your child _love_ bubbles?
