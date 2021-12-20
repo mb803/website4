@@ -1,7 +1,7 @@
 +++
 header_menu = false
 title = "EI blogs"
-weight = nil
+weight = 1
 
 +++
 ## What is Early Intervention?
