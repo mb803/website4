@@ -71,6 +71,12 @@ Not a problem. Just like adults, some children love certain things and can't be 
 
 ![](/uploads/bubble-parent-handout.png)
 
+## More Language Strategies
+
+Looking for more language strategies to include in your daily routines at home to help your baby's language develop? 
+
+[Let's Get in Touch.](/#lets-get-in-touch)
+
 ### References
 
 1. The Hanen Center. (2021). _Give Your Child a Reason to Communicate with Bubbles._ (n.d.). Retrieved December 20, 2021, from hanen.org/Helpful-Info/Articles/Give-Your-Child-a-Reason-to-Communicate-with-Bubbl.aspx

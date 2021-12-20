@@ -43,3 +43,9 @@ Give your child a special job of being the Present Passer.  You can tell them wh
 ## One Page Handout
 
 ![](/uploads/opening-presents-parent-handout.png)
+
+## More Language Strategies
+
+Looking for more language strategies to include in your daily routines at home to help your baby's language develop? 
+
+[Let's Get in Touch.](/#lets-get-in-touch)
