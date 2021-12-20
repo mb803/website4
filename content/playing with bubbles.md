@@ -73,7 +73,7 @@ Not a problem. Just like adults, some children love certain things and can't be 
 
 ## More Language Strategies
 
-Looking for more language strategies to include in your daily routines at home to help your baby's language develop? 
+Looking for more language strategies to include in your daily routines at home to help your baby's language develop?
 
 [Let's Get in Touch.](/#lets-get-in-touch)
 
