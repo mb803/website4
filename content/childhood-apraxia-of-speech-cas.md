@@ -16,7 +16,7 @@ CAS  is a motor speech disorder. This means that it is related to a neurological
 
 ## Signs and Symptoms of CAS
 
-Are you thinking, "_Does my kid have childhood apraxia of speech?"_ Check out these signs and symptoms below, but remember that no two-kids are the same. The best way to get more information is to meet with a speech-language pathologist.
+Are you thinking, "_Does my kid have apraxia?"_ Check out these signs and symptoms below for CAS, but remember that no two-kids are the same. The best way to get more information is to meet with a speech-language pathologist.
 
 * **Late talkers**: delayed onset of your child's first words and subsequent words
 * **Limited number of words** your child can say
