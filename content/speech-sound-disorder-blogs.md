@@ -21,3 +21,9 @@ _Phonological processes_ are patterns of sound errors that initially serve to si
 A common articulation error is a lisp, or difficulty saying S. There are several different types of lisps, one developmental and others which are not part of typical development, indicating need for speech therapy. Learn about the types of lisps and strategies to try at home.
 
 [Read more](/what-to-do-when-your-child-has-a-lisp)
+
+## Childhood Apraxia of Speech (CAS)
+
+Childhood apraxia of speech (CAS) is a speech-sound disorder related to difficulties with the planning/programming aspects of speech output. There are many therapeutic approaches for CAS including PROMPT, DTTC, and more-- all of which Molly Brown is trained in. 
+
+Read more 
