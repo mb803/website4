@@ -1,0 +1,47 @@
++++
+draft = true
+header_menu = false
+title = "Childhood Apraxia of Speech (CAS)"
+weight = nil
+
++++
+## What is Childhood Apraxia of Speech?
+
+**Childhood Apraxia of Speech (CAS)** is a speech-sound disorder that is related to difficulties with the planning and programming aspects of speech output. It is unrelated to any muscle weakness. 
+
+Often times, parents may report that "My child is hard to understand" or "No one understands my child." Additionally, many children who are diagnosed with CAS develop as late talkers. Parents may find that "my child said a word once, but not again." It also may appear like your child is trying to say something, but is not able to get it out (**groping**). 
+
+## What causes Childhood Apraxia of Speech?
+
+CAS  is a motor speech disorder. This means that it is related to a neurological difficulty because the brain is having difficulty creating plans and executing them for speech movement. In typical speech, our brain has to create a message and then send it to our mouth to produce it. In CAS, it is not that a child is "thinking wrong" or has a low IQ, just that the message their brain is sending is being skewed on the way to the mouth. Because CAS is neurological, it cannot be "grown out of" and requires speech therapy for consistent progress.  
+
+## Signs and Symptoms of CAS
+
+* **Late talkers**: delayed onset of your child's first words and subsequent words
+* **Limited number of words** your child can say
+  *  Often times, you may find your child says a word once but then seemingly never again.
+*  **Inconsistent word productions**
+  * If your child says a word differently each time she says it
+    *  _Example:_ For monkey, your child may say "muh-key", "kee-kee", "muh-kuh", "kuh-kee" each time they try to label it. 
+* **Groping**
+  * If your child seems to be trying to say something, but no speech is coming out, this is called groping.  
+* **Vowel Errors**
+* **Differences in automatic versus voluntary speech** 
+  * Your child may say everyday phrases, like _hello_, _good morning, love you_, consistently and accurately, but have difficulty with all other forms of verbal communication, like labeling a picture, retelling a story, etc. 
+* **Decreased sound inventory**
+* **Stress Errors**
+  * _Example:_ For the word banana, we typically say it as "buh-NAH-nuh", a stress error may be a child saying it as "BUH-nah-nuh" or "buh-nah-NUH"
+* **Voicing Errors**
+  * _Example:_ Saying "pie" for 'bye'
+
+## Speech Therapy for Childhood Apraxia of Speech (CAS)
+
+Individualized and intensive speech therapy is vital for treating CAS. Many children with CAS strongly benefit from multiple repetitions and repeated practice of carefully selected speech words/targets by a speech therapy (SLP), which means intensive therapy along with practicing at home for carryover is key for great progress. 
+
+### PROMPT Therapy
+
+PROMPT therapy (_Prompts for Restructuring Oral Muscular Phonetic Targets_) is a specialized therapy that requires trained therapists to utilize this technique. It relies on tactile-based cues, which means using specific hand gestures and movements on a child's face to support accurate production of a speech sound or word. Molly Brown is a trained therapist in PROMPT and uses techniques from this program along with others to promote an-all inclusive therapeutic approach with children with CAS. 
+
+### DTTC Therapy
+
+DTTC (Dynamic Temporal and Tacile Cueing) is another specialized therapy that is often used with children with CAS. This form of treatment follows the **proi**
