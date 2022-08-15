@@ -45,22 +45,22 @@ PROMPT therapy (_Prompts for Restructuring Oral Muscular Phonetic Targets_) is a
 
 ### DTTC Therapy
 
-DTTC (_Dynamic Temporal and Tactile Cueing_) is another specialized therapy that is often used with children with CAS. This form of treatment follows the **principles of motor learning** to treat CAS. Through this therapeutic approach, the child and SLP follow a hierarchy of very-supported speech therapy, fading to independent production. At first, the therapist will have the child say a targeted word simultaneously with the therapist, this will eventually fade to having the child say a targeted word or phrase by themselves. Molly Brown is trained and experienced in using DTTC with children with CAS and other speech sound disorders. 
+DTTC (_Dynamic Temporal and Tactile Cueing_) is another specialized therapy that is often used with children with CAS. This form of treatment follows the **principles of motor learning** to treat CAS. Through this therapeutic approach, the child and SLP follow a hierarchy of very-supported speech therapy, fading to independent production. At first, the therapist will have the child say a targeted word simultaneously with the therapist, this will eventually fade to having the child say a targeted word or phrase by themselves. Molly Brown is trained and experienced in using DTTC with children with CAS and other speech sound disorders.
 
 ### AAC Devices
 
-AAC (_Augmentative and Alternative Communication_) are different ways to allow your child to communicate with you than verbally. This can include low-tech AAC like picture boards and high-tech AAC like iPads, apps, and specialized devices. Research shows that children with CAS strongly benefit from using AAC along with receiving specialized speech therapy. 
+AAC (_Augmentative and Alternative Communication_) are different ways to allow your child to communicate with you than verbally. This can include low-tech AAC like picture boards and high-tech AAC like iPads, apps, and specialized devices. Research shows that children with CAS strongly benefit from using AAC along with receiving specialized speech therapy.
 
 ### Which approach is right for my kid with childhood apraxia of speech?
 
-There is no one right approach for treating CAS. Here at MollyBSLP, find that using all approaches together leads to the best success. No child is the same, some kids may benefit more from hands-on tactile cues, while others may be distressed from others touching their face and benefit more from DTTC and following the principles of motor learning. 
+There is no one right approach for treating CAS. Here at MollyBSLP, find that using all approaches together leads to the best success. No child is the same, some kids may benefit more from hands-on tactile cues, while others may be distressed from others touching their face and benefit more from DTTC and following the principles of motor learning.
 
 ### What words will you work on with my child?
 
-Our number one importance of treating childhood apraxia of speech is functional goals and progress. We want to target words and phrases that are relevant to your child. If your kid loves dinosaurs, then we will work on words related to that interest, whereas if another child does not like dinosaurs, but does love playing kitchen, then that will guide our treatment. We follow a very family-centered speech therapy approach with Childhood Apraxia of Speech. 
+Our number one importance of treating childhood apraxia of speech is functional goals and progress. We want to target words and phrases that are relevant to your child. If your kid loves dinosaurs, then we will work on words related to that interest, whereas if another child does not like dinosaurs, but does love playing kitchen, then that will guide our treatment. We follow a very family-centered speech therapy approach with Childhood Apraxia of Speech.
 
 ## Finding a speech therapist for childhood apraxia of speech near me
 
-Are you looking for a speech therapist who is experienced in working with children with CAS? Maybe you are just looking for a consult to see if your child may have CAS or not? We know it can be stressful when you don't know what is wrong with your child or what to do, let us help.  Molly Brown provides speech therapy for CAS in Essex County, New Jersey for in-person sessions on a limited-coverage basis. Along with virtual speech therapy in New York and Virginia. 
+Are you looking for a speech therapist who is experienced in working with children with CAS? Maybe you are just looking for a consult to see if your child may have CAS or not? We know it can be stressful when you don't know what is wrong with your child or what to do, let us help.  Molly Brown provides speech therapy for CAS in Essex County, New Jersey for in-person sessions on a limited-coverage basis. Along with virtual speech therapy in New York and Virginia.
 
-Let's get in touch. 
+[Let's get in touch](/#let-s-get-in-touch)

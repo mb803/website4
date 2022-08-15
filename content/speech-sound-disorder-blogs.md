@@ -24,6 +24,6 @@ A common articulation error is a lisp, or difficulty saying S. There are several
 
 ## Childhood Apraxia of Speech (CAS)
 
-Childhood apraxia of speech (CAS) is a speech-sound disorder related to difficulties with the planning/programming aspects of speech output. There are many therapeutic approaches for CAS including PROMPT, DTTC, and more-- all of which Molly Brown is trained in. 
+Childhood apraxia of speech (CAS) is a speech-sound disorder related to difficulties with the planning/programming aspects of speech output. There are many therapeutic approaches for CAS including PROMPT, DTTC, and more-- all of which Molly Brown is trained in.
 
-Read more 
+[Read more](/childhood-apraxia-of-speech-cas)
