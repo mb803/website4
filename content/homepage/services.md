@@ -44,21 +44,6 @@ Language-based therapy can target all aspects of language skills expected by chi
 
 ***
 
-## Picky Eaters 
-
-Treatment for picky eaters focuses on supporting your child through typical feeding development while also promoting a positive and joyful experience with all types of food.
-
-[Learn More](/picky-eaters-and-feeding-disorders)
-
-***
-
-## Fluency Disorders
-
-The key to effective treatment of stuttering is early detection and treatment that often focuses on a parent-coaching within a home-based approach.  
-[Learn More](/fluency-disorders)
-
-***
-
 ## Phone Consultations
 
 We understand that making healthcare decisions can be overwhelming at times. Families often have many questions and concerns regarding whether a full evaluation is necessary or not.

@@ -56,7 +56,7 @@ Research shows that getting short bursts of accurate practice multiple times eac
 
 ## How do I find a speech therapist near me?
 
-Do you live in New Jersey, New York, or Virginia? Then look no further, we at MollyBSLP specialize in working with speech sound disorders, like the phonological processes described above. We offer virtual therapy for families in NJ, NY, and VA. We also offer in-home speech therapy in Essex County within a limited coverage area.
+Do you live in New Jersey, New York, or Virginia? Then look no further, we at MollyBSLP specialize in working with speech sound disorders, like the phonological processes described above. We offer virtual therapy for families in NY, and VA.
 
 Do you have concerns about your child’s speech development?
 
