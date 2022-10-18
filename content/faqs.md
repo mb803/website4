@@ -15,11 +15,7 @@ weight = "2"
 
 **I live in (State), can you work with my child?**
 
-* We are presently licensed and able to work with clients in New Jersey, New York, and Virginia.
-
-**Do you provide in-person sessions?**
-
-* We presently offer in-person visits on an as-needed basis within a limited coverage area. These sessions can take place in your home, your child's daycare, or in the local community (like the park or library).  Please reach out with any questions specific to your child or area.
+* We are presently licensed and able to work with clients in New York and Virginia.
 
 **Does my child need speech therapy?**
 
