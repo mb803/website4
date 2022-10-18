@@ -41,7 +41,7 @@ Early Intervention therapists want to use your toys, your routines, and your act
 
 ## How do I find a speech therapist near me?
 
-Here at MollyBSLP, we specialize in therapy for babies and toddlers that fall into the Early Intervention age. We provide virtual early intervention in New York, New Jersey, and Virginia. Also, we provide home-based early intervention in Essex County, New Jersey within a limited coverage area. If you are outside of our coverage area but are still interested, please reach out and we will be able to provide you with more information and support to the best of our ability.
+Here at MollyBSLP, we specialize in therapy for babies and toddlers that fall into the Early Intervention age. We provide virtual early intervention in New York and Virginia. 
 
 Looking for more information on if your child may need speech therapy?
 
