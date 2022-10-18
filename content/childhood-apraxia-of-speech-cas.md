@@ -61,6 +61,6 @@ Our number one importance of treating childhood apraxia of speech is functional 
 
 ## Finding a speech therapist for childhood apraxia of speech near me
 
-Are you looking for a speech therapist who is experienced in working with children with CAS? Maybe you are just looking for a consult to see if your child may have CAS or not? We know it can be stressful when you don't know what is wrong with your child or what to do, let us help.  Molly Brown provides speech therapy for CAS in Essex County, New Jersey for in-person sessions on a limited-coverage basis. Along with virtual speech therapy in New York and Virginia.
+Are you looking for a speech therapist who is experienced in working with children with CAS? Maybe you are just looking for a consult to see if your child may have CAS or not? We know it can be stressful when you don't know what is wrong with your child or what to do, let us help.  Molly Brown provides speech therapy via virtual speech therapy in New York and Virginia.
 
 [Let's get in touch](/#let-s-get-in-touch)
