@@ -56,7 +56,7 @@ As mentioned throughout this post, we consider variables beyond developmental no
 
 ## How do I get my child into speech therapy?
 
-At MollyBSLP, we offer virtual speech therapy in NJ, NY, and VA. Speech therapy at home in NJ is also available to a limited coverage area. Do you have concerns about your child’s speech development?
+At MollyBSLP, we offer virtual speech therapy in NY, and VA. Do you have concerns about your child’s speech development?
 
 [Let's get in touch.](/#let-s-get-in-touch)
 
