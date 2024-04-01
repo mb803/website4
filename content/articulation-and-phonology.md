@@ -2,8 +2,9 @@
 header_menu = false
 title = "Articulation and Phonology"
 weight = 3
-
+_template = "homepagecontent"
 +++
+
 We know that it can be frustrating when your child isn’t able to be easily understood when sharing wonderful stories about their day, interests, and dreams.
 
 * A child with an **articulation disorder** may have difficulty with one or more specific sounds that impact their overall ability to be effectively understood.

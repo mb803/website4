@@ -2,8 +2,9 @@
 header_menu = false
 title = "Bubbles"
 weight = 1
-
+_template = "homepagecontent"
 +++
+
 Does your child _love_ bubbles?
 
 Well not only do children love bubbles, but speech therapists do, too! Bubbles are a fun, interactive activity to keep your child's attention and to work on some great speech therapy at the same time. Bubbles are a great **people toy**. This  means its a toy that keeps your child engaged with **you**, not with pushing buttons to make a noise or lights go off.

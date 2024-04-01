@@ -2,8 +2,9 @@
 header_menu = false
 title = "Childhood Apraxia of Speech (CAS)"
 weight = 1
-
+_template = "homepagecontent"
 +++
+
 ## What is Childhood Apraxia of Speech?
 
 **Childhood Apraxia of Speech (CAS)** is a speech-sound disorder that is related to difficulties with the planning and programming aspects of speech output. It is unrelated to any muscle weakness.

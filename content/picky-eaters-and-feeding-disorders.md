@@ -2,8 +2,9 @@
 header_menu = false
 title = "Picky Eaters"
 weight = 2
-
+_template = "homepagecontent"
 +++
+
 Eating is not only a vital activity needed for survival, but often an activity that is done while enjoying time with others. We understand it can be stressful when your child has difficulty with food and are here to help.
 
 If your child only eats certain foods, brands, colors, or textures and dislikes trying new foods, they may be considered a picky eater. Picky eating may be due to a developmental delay; for example, maybe your preschooler doesn't like certain foods because they aren't confident chewing and rely on sucking meltable-foods, like Goldfish. Picky eating may also be related to anxiety-based fears, like ARFID. 

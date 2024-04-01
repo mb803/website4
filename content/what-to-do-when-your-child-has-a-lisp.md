@@ -2,8 +2,9 @@
 header_menu = false
 title = "What to do when your child has a lisp"
 weight = 1
-
+_template = "homepagecontent"
 +++
+
 When our kids have speech errors, it often sounds cute at a young age. But what happens when they continue to get older but their speech stays the same? Lisp? Meet speech therapy.
 
 ## What is a lisp?

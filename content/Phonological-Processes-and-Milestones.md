@@ -2,8 +2,9 @@
 header_menu = false
 title = "Phonological Processes and their Development"
 weight = 1
-
+_template = "homepagecontent"
 +++
+
 When your little one first starts to talk, your first reaction may be to film everything they say because, well, it is just so adorable when they say “ ay da tick” when they were really trying to tell you "The doggy ate the stick." Those videos will be fondly watched for ages and used at birthday parties, family get togethers, and celebrations for years to come, however, depending on your child's age, they may benefit from working with a speech therapist to become more easily understood.
 
 ## Types of Speech Sound Disorders

@@ -2,8 +2,9 @@
 header_menu = false
 title = "Articulation Disorders and Milestones "
 weight = 1
-
+_template = "homepagecontent"
 +++
+
 While there are moments where it is adorable to hear our little ones say _“wabbit”_ when talking about bunnies, _“lello”_ when talking about the color of the sun, or even seeing their tongue pop out when hissing like a snake, these are all signs that they may need speech therapy.
 
 ## Types of Speech Sound Disorders

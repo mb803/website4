@@ -2,8 +2,9 @@
 header_menu = false
 title = "What is Early Intervention?"
 weight = 1
-
+_template = "homepagecontent"
 +++
+
 ## What is Early Intervention?
 
 **Early Intervention** is therapy that is specifically geared for babies and children ages birth to three years old. Early intervention aims to help children with developmental delays and disorders. It follows the ideology that the earlier you get help for your child, the more progress they can make; this is the _opposite_ mindset of "wait and see".  Early intervention services can include:

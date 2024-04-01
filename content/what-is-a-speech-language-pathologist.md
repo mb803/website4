@@ -2,8 +2,9 @@
 header_menu = false
 title = "What is a Speech Language Pathologist?"
 weight = 1
-
+_template = "homepagecontent"
 +++
+
 _Speech Language Pathologist, Speech Therapist, Speech Teacher, Feeding Therapist, SLP_… the list of  names we can be called is seemingly endless. Many are unsure of what to call us and more importantly, unsure of what we do and when to seek out our help.
 
 Formally speaking, a speech language pathologist (SLP) is a professional that diagnoses and treats people of all ages for speech, language, social, cognitive, and feeding disorders within a variety of settings.

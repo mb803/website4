@@ -2,8 +2,9 @@
 header_menu = false
 title = "Fluency Disorders"
 weight = 1
-
+_template = "homepagecontent"
 +++
+
 Fluency disorders can include stuttering and cluttering.
 
 * **Stuttering** is common in young children as they are learning to speak, however, if you notice your child getting stuck on sounds or repeating syllables and whole words, we may be able to help.

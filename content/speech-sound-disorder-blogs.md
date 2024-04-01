@@ -2,8 +2,9 @@
 header_menu = false
 title = "Speech Sound Disorder Blogs"
 weight = 1
-
+_template = "homepagecontent"
 +++
+
 ## Articulation Disorders
 
 Are you finding yourself thinking _Why can't my kid say R?_ or _What do I do about a lisp?_ Your child may be unable to produce specific speech sounds and may be hard to understand; they may have an articulation disorder.
