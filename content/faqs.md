@@ -11,11 +11,16 @@ header_menu = false
 
 **Why virtual sessions?**
 
-* Virtual sessions allows for an increased convenience of meeting with you and your child in a space where they are most comfortable. No need for you to leave the house, we will meet you right where you are. In our virtual sessions, we use a play-based approach to keep even the toddlers and those busy-movers motivated in a session.  Meeting virtually allows for an infinite amount of resources to be used at our fingertips and provides a safe-space for parent coaching for successful carryover of therapy techniques to your every day.
+* Virtual sessions allows for an increased convenience of meeting with you and your child in a space where they are most comfortable. No need for you to leave the house, we will meet you right where you are.  Meeting virtually allows for an infinite amount of resources to be used at our fingertips and provides a safe-space for parent coaching for successful carryover of therapy techniques to your every day.
+* Virtual speech therapy sessions work great for working on articulation (for kids who can't say R, S, L, TH, and more), pediatric stuttering, talking too fast, and more. 
+
+**Do you do in-person speech therapy?**
+
+* Yes! We provide speech therapy in your home. At home speech therapy in Essex County, Passaic County, and Morris County are all options with Molly. Reach out to schedule a free consultation to discuss this as an option. 
 
 **I live in (State), can you work with my child?**
 
-* We are presently licensed and able to work with clients in New York and Virginia.
+* We are presently licensed and able to work with clients in New Jersey.
 
 **Does my child need speech therapy?**
 
