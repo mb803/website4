@@ -1,9 +1,9 @@
 +++
-header_menu = false
 title = "Frequently Asked Questions"
-weight = "2"
-
+weight = 1
+header_menu = false
 +++
+
 **Do you take insurance?**
 
 * We  are presently a private-pay service provider. This means that we are considered "out of network" to your health insurance. Using an out of network, private pay provider allows you to get the support that best suits your child and family's needs, not limiting you to any health insurance plan policies.
@@ -32,7 +32,9 @@ weight = "2"
 
 **Where can I find more information?**
 
-* [Check out our Blog.](/blog)
+* Find more information by reading out blog.
+
+[Check out our Blog.](/blog)
 
 **Do you have any additional questions unrelated to those above?**
 
